@@ -4,6 +4,7 @@ import numpy as np
 from PIL import ImageFont, ImageDraw, Image
 
 
+
 def bbox_visualisation(img, path, class_list, obj_list):
     for obj in obj_list:
         # 좌상단 좌표
@@ -30,6 +31,7 @@ def main():
     ann_path = "ann/"
     output_path = "img/with_bbox/"
     meta_path = "obj.names"
+    noann_path = "img/no_label/"
 
     if not os.path.exists(output_path):
         os.mkdir(output_path)
@@ -53,11 +55,20 @@ def main():
         # 이미지 해상도 구하기
         src = cv2.imread(img_path + img, cv2.IMREAD_UNCHANGED)
         h, w, _ = src.shape
+        
         # 이미지에 해당하는 ann 호출
         with open(ann_path + ann, 'r', encoding="UTF-8") as f:
             obj_list = f.readlines()
             obj_list = [obj_list[i].strip() for i in range(len(obj_list))]
         f.close()
+
+        # 레이블링이 없는 이미지의 경우
+        if not len(obj_list):
+            if not os.path.exists(noann_path):
+                os.mkdir(noann_path)
+            cv2.imwrite(noann_path + img, src)
+            continue
+
         for i in range(len(obj_list)):
             id, x, y, rw, rh = obj_list[i].split()
             obj_list[i] = [int(id), float(x)*w, float(y)*h, float(rw)*w, float(rh)*h]
