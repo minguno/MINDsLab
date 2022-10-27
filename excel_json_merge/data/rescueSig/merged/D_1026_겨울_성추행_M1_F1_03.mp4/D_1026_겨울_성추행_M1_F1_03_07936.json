@@ -1,0 +1,112 @@
+{
+	"images": [
+		{
+			"frame_no": "7936",
+			"file_name": "D_1026_겨울_성추행_M1_F1_03_07936.jpg",
+			"width": 3840,
+			"format": "jpg",
+			"labeling_count": 4,
+			"time": "00:04:24.533",
+			"image_id": 1588,
+			"resolution": "3840 x 2160",
+			"height": 2160
+		}
+	],
+	"annotations": [
+		{
+			"category_name": "정상행동",
+			"category_id": 3,
+			"actor_no": "1",
+			"wear_mask_yn": "N",
+			"box": [
+				1710.4888808859268,
+				152.1671018276769,
+				166.90015305663064,
+				204.82938687314288
+			]
+		},
+		{
+			"category_name": "성추행",
+			"category_id": 1,
+			"actor_no": "2",
+			"wear_mask_yn": "N",
+			"box": [
+				1783.9936428652504,
+				128.06447950959304,
+				108.97945283233048,
+				295.33431717561564
+			]
+		},
+		{
+			"category_name": "정상행동",
+			"category_id": 3,
+			"actor_no": "3",
+			"wear_mask_yn": "N",
+			"box": [
+				1815.304277967462,
+				92.92950391644972,
+				89.65655754167528,
+				297.77545691906005
+			]
+		},
+		{
+			"category_name": "정상행동",
+			"category_id": 3,
+			"actor_no": "4",
+			"wear_mask_yn": "N",
+			"box": [
+				2020.261096605744,
+				493.14564649790026,
+				471.5220396252487,
+				527.9509592462249
+			]
+		}
+	],
+	"categories": [
+		{
+			"name": "성추행",
+			"id": 1
+		},
+		{
+			"name": "의료사항",
+			"id": 2
+		},
+		{
+			"name": "정상행동",
+			"id": 3
+		}
+	],
+	"video": {
+		"file_name": "D_1026_겨울_성추행_M1_F1_03.mp4",
+		"camera_no": "03",
+		"width": 3840,
+		"fps": 30,
+		"format": "mp4",
+		"abnormal_start_time": "00:04:13",
+		"season": "겨울",
+		"id": 6,
+		"abnormal_end_time": "00:05:00",
+		"resolution": "3840 x 2160",
+		"scenario_id": "1026",
+		"height": 2160,
+		"total_video_time": "00:05:00",
+		"abnormal_start_time_detail[0]": "00:04:13",
+		"abnormal_end_time_detail[0]": "00:05:00",
+		"abnormal_start_time_detail[1]": NaN,
+		"abnormal_end_time_detail[1]": NaN,
+		"abnormal_start_time_detail[2]": NaN,
+		"abnormal_end_time_detail[2]": NaN,
+		"abnormal_start_time_detail[3]": NaN,
+		"abnormal_end_time_detail[3]": NaN,
+		"abnormal_start_time_detail[4]": NaN,
+		"abnormal_end_time_detail[4]": NaN,
+		"abnormal_start_time_detail[5]": NaN,
+		"abnormal_end_time_detail[5]": NaN,
+		"abnormal_start_time_detail[6]": NaN,
+		"abnormal_end_time_detail[6]": NaN,
+		"abnormal_start_time_detail[7]": NaN,
+		"abnormal_end_time_detail[7]": NaN,
+		"abnormal_start_time_detail[8]": NaN,
+		"abnormal_end_time_detail[8]": NaN
+	}
+}

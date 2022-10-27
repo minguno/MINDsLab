@@ -1,0 +1,65 @@
+{
+	"images": [
+		{
+			"frame_no": "8061",
+			"file_name": "D_1194_겨울_의료사항_M1_F0_01_08061.jpg",
+			"width": 3840,
+			"format": "jpg",
+			"labeling_count": 0,
+			"time": "00:04:28.700",
+			"image_id": 1613,
+			"resolution": "3840 x 2160",
+			"height": 2160
+		}
+	],
+	"annotations": [],
+	"categories": [
+		{
+			"name": "성추행",
+			"id": 1
+		},
+		{
+			"name": "의료사항",
+			"id": 2
+		},
+		{
+			"name": "정상행동",
+			"id": 3
+		}
+	],
+	"video": {
+		"file_name": "D_1194_겨울_의료사항_M1_F0_01.mp4",
+		"camera_no": "01",
+		"width": 3840,
+		"fps": 30,
+		"format": "mp4",
+		"abnormal_start_time": "00:02:50",
+		"season": "겨울",
+		"id": 8,
+		"abnormal_end_time": "00:05:00",
+		"resolution": "3840 x 2160",
+		"scenario_id": "1194",
+		"height": 2160,
+		"total_video_time": "00:05:00",
+		"stoop_start_time_[0]": NaN,
+		"stoop_end_time_[0]": NaN,
+		"squat_start_time_[0]": NaN,
+		"squat_end_time_[0]": NaN,
+		"seizure_start_time_[0]": NaN,
+		"seizure_end_time_[0]": NaN,
+		"stoop_start_time_[1]": NaN,
+		"stoop_end_time_[1]": NaN,
+		"squat_start_time_[1]": NaN,
+		"squat_end_time_[1]": NaN,
+		"seizure_start_time_[1]": NaN,
+		"seizure_end_time_[1]": NaN,
+		"stoop_start_time_[2]": NaN,
+		"stoop_end_time_[2]": NaN,
+		"squat_start_time_[2]": NaN,
+		"squat_end_time_[2]": NaN,
+		"seizure_start_time_[2]": NaN,
+		"seizure_end_time_[2]": NaN,
+		"fall_start_time": NaN,
+		"fall_end_time": NaN
+	}
+}
