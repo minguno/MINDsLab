@@ -1,0 +1,1152 @@
+eargada_hyanggi_1155/22k_wav/hyanggi_00001.wav|하나, 둘, 셋, 넷, 다섯, 여섯, 일곱, 여덟, 아홉, 열|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00002.wav|한 켤레씩이나, 두 명뿐만 아니라, 세 쪽의, 네 마리가, 다섯 권은, 여섯 쌍이, 일곱 차례나, 여덟 잔부터, 아홉 장째, 열 세트로|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00003.wav|열한 채라, 열두 번에, 열세 묶음이라, 열네 가지는, 열다섯 줄쯤, 열여섯 살을, 열일곱 그루인데, 열여덟 대를, 열아홉 묶음이라서, 스무 개까지|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00004.wav|영 칼로리, 일 미터, 이 와트, 삼 제곱미터, 사 키로미터, 오 센치, 육 헤르쯔, 칠 킬로그램, 팔 그람|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00005.wav|구 메가바이트, 십 밀리리터, 십일 평, 십이 데시벨, 십삼 킬로미터, 십사 메가바이트, 십오 도, 십육 도씨,|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00006.wav|열여덟 살, 스물아홉 살, 서른 살, 마흔한 살, 쉰두 살, 예순세 살, 일흔네 살, 여든다섯 살, 아흔여섯 살|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00007.wav|모든 공부가 서로 녹아든 거야 안 그래?|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00008.wav|사람들이 죽음에 씌운 어둠과 검정빛은 어쩌자고 그렇게 된 것일까.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00009.wav|이상은, 그 소설 안에 무수히 많은 사건들 가운데, 비교적 이미지가 선명한 것들을 몇 개만 가려 뽑은 예에 불과하다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00010.wav|이쪽의 뒤편에 서 있던 길산이는, 그 울음소리를 듣자, 어쩐지 낯익은 기분이 들었고, 설움이 척추 끝까지 스며오는 듯하였다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00011.wav|그러면 떡볶이에 만두하고 달걀은 안 넣을거야?|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00012.wav|수영강사는 이온음료 캔을 만지작거리는 은혜에게, 들이켜라는 듯 턱짓을 한다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00013.wav|그는 탑고개 위에 올라서서, 은율 쪽의 깊은 골짜기와 안악으로 치달려 솟은 구월산의 삐죽삐죽한 연봉들을 번갈아 바라보았다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00014.wav|부부가 화순치 못하면 자손들이 쇠퇴하여 보잘것 없이 될 것입니다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00015.wav|처음에는 군청과 산하 열 개읍, 두 개면이 시작했고, 이어 유월 말부터는 교육청과 학교, 경찰서, 우체국, 농수축협, 교회 등 금산군 내의 오십육 개 기관이 참여했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00016.wav|사람은 바깥의 대상을 지각하고, 그것을 어떤 틀에 따라 갈라서 인지한다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00017.wav|그러든지 아니면 이 꿈에서 깨든지 두 가지 옵션을 주는데,|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00018.wav|이번 책 제목이 박떡배와 오성과 한음으로 정해진 이유다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00019.wav|목욕 후에는 피부를 건조시킨 후, 로션을 바른다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00020.wav|근대 철학과 헤겔의 연관을 얘기하기 위해선, 피히테의 경우에도 그랬듯이 칸트 철학에서 시작해야 합니다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00021.wav|따라서 사용자 인터페이스의 개선 방향을 잡기도 어려우며, 소프트웨어 간의 비교 평가에도 많은 난점이 있다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00022.wav|우리 미래의 큰 부분이 노사관계, 외국인 투자유치, 관광산업에 달려있음을, 스페인을 통하여 배우고 싶다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00023.wav|속담에 오르지 못할 나무는 쳐다보지도 말라고 했고, 뱁새가 황새 쫓아가다 가랑이 찢어진다고도 했습니다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00024.wav|물론 그것이 국익에 보탬이 돼야 한다는 전제에서다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00025.wav|메이지시대 이후 일본 정부는 일본의 건국신화를, 역사적 사실인 양 국민들에게 철저히 각인시켰는데, 조몬시대 일본인, 야요이시대 일본인이라는 식으로|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00026.wav|마치 오랜 옛날부터 일본인이 있었던 것처럼, 때로는 구석기시대로까지 일본을 소급하는 주장이 오늘날에도 널리 퍼져 있다는 것이다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00027.wav|피씨통신 게시판은 천건도 넘는 항의와 욕설로 뒤덮였다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00028.wav|이런 악습이 몸에 배면 어떤 이야기의 경우에도 같은 습관이 되풀이되기 때문에, 모처럼의 기회도 놓쳐버리게 된다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00029.wav|삼십초만 더 생각하라, 어쩌면 이순간이 내 인생을 송두리째 바꿀 수 있다|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00030.wav|한강의 야경이, 세계적 야경의 대열에 올라 서울라이트들의 긍지가 되길 기대해 본다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00031.wav|얘, 그놈 참 좋다. 큰 붕어는 자배기 속에서 하얗게 배를 깔고 자빠졌다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00032.wav|얘, 그럴듯하다! 하며 영식이는 툇마루로 와서 앉는 순제를 쳐다보고 웃는다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00033.wav|얘, 듣기 싫다! 누가 걱정한다던! 모친은 애매한 아들에게 화풀이만 하였다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00034.wav|왜, 어디 가서 목욕도 좀 하고 쉬지 그랬냐. 그가 말했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00035.wav|천구백칠십육년 군에 입대한 땡땡땡 씨는, 집총 거부를 이유로 총기 개머리판으로 구타를 당한 뒤, 건강 악화를 이유로 퇴소 조치됐으나 이내 사망했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00036.wav|일월 중순까지만 해도 눈 가뭄에 시달리다가, 설이 다 돼서야 연거푸 내린 함박눈으로 삼라만상이 하얗다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00037.wav|이십개 이상의 세계적인 브랜드와 작업을 함께해 온 디자이너는, 현재 한국 직업 전문학교의 해외 취업 팀 팀장으로 근무 중이다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00038.wav|에이 쇼핑이 일월 한 달 동안, 웨딩드레스를 파격가로 임대하고, 야외 촬영 비용을 오십퍼센트까지 할인하는 초염가의 웨딩 이벤트를 벌인다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00039.wav|그 귀신은 이십일일 네이버 웹툰 페이지에 게재된 공포 만화 시리즈의 다섯 번째 이야기로, 실화로 착각할 만큼 섬뜩한 무서움을 준다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00040.wav|만평과 다양한 웹툰을 서비스하고 있다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00041.wav|가급적 빠른 시일 안에 일을 끝내도록 해라.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00042.wav|가내 공장에 가면, 실밥 뽑기나 구슬 꿰기 등의 부업거리를 얻을 수 있다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00043.wav|가을이 되자 예식장마다 예비부부들이 몰려와 예약 상황을 알아보고 있었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00044.wav|각급 선거관리위원회는 선거인명부의 작성등, 선거사무와 국민투표사무에 관하여 관계 행정기관에 필요한 지시를 할 수 있다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00045.wav|각급 선거관리위원회의 조직 직무범위 기타 필요한 사항은 법률로 정한다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00046.wav|갈수록 범죄가 흉악해지다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00047.wav|감독은 의기양양해져서, 새로 온 인부들에게 조용하라고 호통을 한 번 내질렀다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00048.wav|감사원의 조직, 직무범위, 감사위원의 자격, 감사대상공무원의 범위, 기타 필요한 사항은 법률로 정한다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00049.wav|감사위원은 원장의 제청으로 대통령이 임명하고, 그 임기는 사년으로 하며, 일차에 한하여 중임할 수 있다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00050.wav|감투란 누구나 한번 쓰면 벗기가 싫어지는 법이다. 예외는 드물다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00051.wav|갑자기 넓은 호수가 시야 가득히 펼쳐졌다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00052.wav|갑자기 웬일로 오셨어요?|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00053.wav|강 여사는 아들의 일기장을 얼른 서랍에 다시 넣고, 건드린 흔적이 없도록 원래대로 두었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00054.wav|강변의 야경이 환상적이었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00055.wav|같은 목표를 향해 나가는 게라면 아무 때고 다시 만날 날이 있겠지.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00056.wav|같은 종류끼리 모아라.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00057.wav|같이 근무를 하지는 않았으나 그와는 꽤 가까웠던 사이였다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00058.wav|개의에 대한 반대 의견을 내놓았다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00059.wav|개인의 이익과 국가의 이익이 부합하다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00060.wav|객지 생활을 오래 하다 보니 집이 그리워진다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00061.wav|거리의 가로수들이, 자동차 매연과 먼지로 심각하게 훼손을 입고 있다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00062.wav|거함인 본선 옆에는 많은 요정이 수색 작업을 펼치고 있었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00063.wav|건물 벽에 붙어선 미군들이 마구잡이로 총을 갈겨 대기 시작했다. 하사는 텅 빈 광장에 눈을 준 채 소총에다 탄창을 끼웠다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00064.wav|검찰과 경찰은 인신매매나 마약 밀매 같은 조직범죄를 뿌리 뽑기로 했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00065.wav|검찰은 편파 수사 여부에 대하여 자체 감찰을 실시하였다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00066.wav|겁이 나서 기어들어가는 목소리로 대답하다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00067.wav|겨울이 빠른 걸음으로 다가온다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00068.wav|결혼 비용이 만만치 않아 웨딩드레스는 대여를 하기로 결정했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00069.wav|결혼 예물로 순금 반지를 교환하였다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00070.wav|결혼 예식을 필하기가 바쁘게 신랑 신부는 서로 팔을 끼고, 웨딩마치에 발걸음도 가볍게 걸어 나가게 마련이다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00071.wav|경고를 두 번 받으면 퇴장이다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00072.wav|경기가 격렬해지자, 부상과 반칙으로 퇴장하는 선수가 속출했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00073.wav|경민은 역 광장을 간신히 벗어나, 곧 한곳에 우두커니 서있는 강윤정 쪽으로 다가갔다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00074.wav|경전의 진의를 깨닫다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00075.wav|경제 변동에 구애받지 않는 분야.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00076.wav|경제 분야의 전문가.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00077.wav|경찰에 신변 보호를 요청하다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00078.wav|경찰은 사회 질서의 교란을 노리는 불순 세력을 뿌리 뽑기로 했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00079.wav|경찰은 연말연시를 맞아, 비상근무령을 내리고 강도와 절도 등 각종 범죄에 대비했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00080.wav|경찰의 철저한 경호를 요청하다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00081.wav|경찰이 시위에 강경 진압으로 맞서면서, 직격 최루탄이나 그 파편에 맞은 부상자가 크게 늘고 있다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00082.wav|계기로 삼아 더욱 열심히 노력하자.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00083.wav|계절에 앞서가는 패션계에서는 벌써 내년 여름 의상을 선보이고 있다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00084.wav|계획은 원래대로 진행되었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00085.wav|고기 종류는 다 좋은데 선지나 창자는 가급적 안 먹는 게 좋아.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00086.wav|고대사 연구에 귀중한 자료.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00087.wav|고려대 한국어대사전|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00088.wav|고아인 그는 주위의 무관심 속에서도 반듯하게 성장했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00089.wav|고추를 밭떼기로 예매를 했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00090.wav|곰이 디딜판을 밟으면, 궤의 문이 닫혀 갇히도록 장치되어 있다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00091.wav|곱게 차려입은 그녀가 무척 사랑스러워 보였다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00092.wav|공개하지 아니한 회의내용의 공표에 관하여는, 법률이 정하는 바에 의한다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00093.wav|공격수는 패스 받은 공을 왼발로 감아, 그대로 강슛을 날렸다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00094.wav|공든 탑이 허무하게 무너졌다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00095.wav|공무원은 국민전체에 대한 봉사자이며, 국민에 대하여 책임을 진다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00096.wav|공사 관계로 보행에 불편을 드려 죄송합니다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00097.wav|공사 중에 통행에 불편을 드려 죄송합니다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00098.wav|공산품이 한국 산업 규격 검사에서 불합격되다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00099.wav|공상 과학 만화에 나오는 멸균실처럼, 바닥도 하얗고 양옆을 가득 채운 신발장도 하얗다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00100.wav|공식 석상에서는 얘기가 길면 자칫 지루해지기 쉽다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00101.wav|공주는 요정의 예언대로 아름답게 자랐습니다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00102.wav|공포 영화를 보면 스릴과 쾌감을 맛볼 수 있다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00103.wav|과식, 폭식, 식탐자들이 가장 잘 걸리는 질병이, 당뇨나 췌장암이다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00104.wav|과외 비용이 대다수 학부모에게 적지 않은 부담을 주고 있다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00105.wav|과학자들 사이에서 일부 분야를 의사 과학으로 취급하고 인정하지 않는 경향이 있다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00106.wav|관광지로 가는 주말 비행기표는 예매를 하지 않으면 구하기가 힘들다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00107.wav|관람객들께서는 질서 있게 퇴장하시기 바랍니다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00108.wav|광장 모퉁이에 시계탑을 세우다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00109.wav|광장에는 휴식을 취하러 나온 시민들이 자전거를 타거나 일광욕을 하고 있었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00110.wav|광장으로 사람들이 하얗게 몰려들었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00111.wav|괜히 소문나지 않도록 입조심해.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00112.wav|괜히 쓸데없는 곳에 돈 쓰지 말고 어려울 때를 생각해서 저축해라.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00113.wav|괜히 트집을 잡다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00114.wav|괜히 폐를 끼치다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00115.wav|교육의 자주성, 전문성, 정치적 중립성 및 대학의 자율성은, 법률이 정하는 바에 의하여 보장된다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00116.wav|군사재판을 관할하기 위하여, 특별법원으로서 군사법원을 둘 수 있다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00117.wav|굳이 모국에서 열리는 대회에는, 출전료를 받지 않는 아니카 소렌스탐이나, 캐리 웹의 예를 들지 않더라도 말이다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00118.wav|궤를 달리하다|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00119.wav|귀성 차표의 예매를 서두르다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00120.wav|귀성객들이 추석 고속버스 승차권을 예매했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00121.wav|귀인 댁 따님이 미쳤다고 거들떠나 볼 것인가?|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00122.wav|귀인 조 씨가 그다음에 즉시 몸을 가졌다. 낳아 보니 아들이었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00123.wav|귀인을 만나다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00124.wav|귀인인 줄 알고 사첫방 앞에 와서 하정배로 문안을 드리었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00125.wav|귀중한 자료가 산망되어 버렸다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00126.wav|귀중한 책을 함부로 굴리다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00127.wav|규격에 맞게 제품을 완제하여 포장까지 끝냈다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00128.wav|규격에 맞는 신봉을 사용해야 한다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00129.wav|규격에 맞추다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00130.wav|규격에 맞추어 생산했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00131.wav|그 나라는 소프트웨어 산업에서 독점적인 위치에 있다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00132.wav|그 나라에서는 아직도 인종 차별에 의한 인권 탄압이 계속되고 있다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00133.wav|그 나라의 독재자는 국민을 총칼로 탄압했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00134.wav|그 넓고 큰 집에 아무도 살고 있지 않다는 사실에 그는 어떤 좋지 않은 예감을 받았다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00135.wav|그 노래는 서로 다른 각 세대의 사람들의 응집을 유발하였다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00136.wav|그 밤차 속에서 나는 이미 그런 의문과 씨름해 왔던 것이다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00137.wav|그 배는 여러 가지 항해 계기와 선내 통신 설비 따위를 갖추고 있다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00138.wav|그러나 혁명적인 정세만 만들어 놓고 뒷감당을 못한다면, 그건 엄청난 범죄가 될 수밖에 없지.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00139.wav|그러던 어느 날, 쉬고 있던 화산이 갑자기 활동을 재개해서 연기와 재를 하늘 높이 뽑기 시작한다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00140.wav|그런 예감이 들다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00141.wav|그를 만난 지도 꽤 오래되었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00142.wav|그리고 또 한 가지의 의문. 그것은 화장터 사건이었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00143.wav|그분 내일 외국에 가신다지?|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00144.wav|그분은 물리학 분야에서 권위가 있는 학자이다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00145.wav|그분은 새로 들인 양자를 친아들보다 더 귀여워하신대.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00146.wav|그에게 거짓말을 해 가면서 장 서방을 구하려고 하는 데에는, 그만한 연유가 있으리라 헤아렸기 때문에, 어머니에 대해서 털끝만큼도 서운한 마음을 품지 않았다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00147.wav|그의 낙선이 금권 정치의 퇴장을 알리는 전주곡이라고 보면 된다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00148.wav|그의 눈은 밥을 발견한 맹수의 눈처럼 빛났다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00149.wav|그의 말을 듣고 나는 몹시 놀랐다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00150.wav|그의 배 속에서 꾸르륵하는 소리가 꽤 길게 났다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00151.wav|그의 웹툰은 독자가 천만 명을 훌쩍 넘을 정도로 인기가 있다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00152.wav|그의 의견도 나의 의견과 꼭 같았다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00153.wav|그의 의견에는 반대자가 많다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00154.wav|그의 죽음이 꼭 이웃 사람들의 무관심 탓이라고 할 수는 없다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00155.wav|그의 추리는 사실과 잘 부합된 것이었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00156.wav|그의 행동은 사회 관습에 부합되지 않는 것이었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00157.wav|그의 형은 서울에서 꽤 잘살고 있다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00158.wav|그저 막연하게 그 노선을 지지한다는 정도의 의견 갖곤 어림도 없을 겁니다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00159.wav|그중에도 특히 축령산 휴양림은, 스트레스 해소에 도움을 주는 피톤치드가, 소나무의 두배 이상인 편백나무가 가득한 곳이다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00160.wav|근래 언관들이 민사를 진언하지 않음은 웬일이오니까?|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00161.wav|근로조건의 기준은, 인간의 존엄성을 보장하도록 법률로 정한다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00162.wav|기능이 비약적으로 향상되면서 컴퓨터의 속도가 매우 빨라졌다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00163.wav|기별한 지 꽤 지났건만 회보가 없다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00164.wav|기자의 비판적 질문에 얼버무려 대답하다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00165.wav|기차가 휑하게 뚫린 굴을 빠져나가고 있다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00166.wav|기차표 예매.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00167.wav|길 떠날 채비를 마친 시외삼촌이 짜증 섞인 목소리로 시어머니를 나무라고 나선 것이었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00168.wav|김 감독은 선수의 경륜을 귀중하게 생각한다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00169.wav|김 노인의 얼굴에는 삶의 갈피갈피에서 묻어나는 외로움의 흔적이, 깊이 주름져 있었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00170.wav|김 박사는 핵물리학 분야에서 그 권위를 인정받고 있다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00171.wav|김 사장! 잘 나가는 스웨터로 몇 벌 뽑아 봐.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00172.wav|김 의원이 뇌물을 받았다는 얘기가 사실이냐?|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00173.wav|김치가 얼근해도 맛은 괜찮다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00174.wav|깃발을 있는 대로 꺼내 간짓대에 매달고 풍물을 치며 의기양양하게 행군을 했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00175.wav|깨끗한 자연은 너무나 귀중해서 다른 무엇과도 바꿀 수 없다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00176.wav|꼼짝 않고 부동자세로 서 있다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00177.wav|꽤 감동적으로 읽었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00178.wav|꽤 고집이 세다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00179.wav|꽤 다르구나.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00180.wav|꽤 많이 마신 모양이다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00181.wav|끊임없이 휘몰아치는 눈가루를 덮어쓰며, 가끔씩 죽어 나가는 동료들을 휑한 눈으로 하염없이 바라볼 뿐이다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00182.wav|나 역시 빨대를 물고 콜라를 빨아들이면서, 실상은 여전히 이경혜 그녀를 생각하고 있었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00183.wav|나는 거짓말한 것이 탄로 날까 봐 두려워 선생님을 뵐 때마다 옴찔옴찔한다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00184.wav|나는 고모부의 변명을 귓가에 흘리면서 택시 운전사에게 좀 더 빨리 달리라고 부탁했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00185.wav|나는 곰곰이 생각해 보았지만 이랬다저랬다 하는 그의 진의를 도무지 알 수 없었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00186.wav|나는 광대가 아직 오지 않는 데 대하여 욕설을 퍼부었고, 짜증 때문에 술을 연거푸 두 잔을 비워 냈다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00187.wav|나는 그 사람만 바라보고 있으면 괜히 웃게 되고 기분이 들뜬다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00188.wav|나는 그 일을 감당할 만한 힘도 의사도 없다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00189.wav|나는 그녀의 과도한 친절이 귀찮기만 했었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00190.wav|나는 그의 의견에 찬성한다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00191.wav|나는 몸이 아파서 만사가 다 귀찮다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00192.wav|나는 바닥에 엎드려 새록거리고 있는 아기의 모습이 너무 귀여워 한참 동안 바라보고 있었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00193.wav|나는 박문혜 씨를 노린 적도 없고, 유혹한 적도 없고, 유혹할 의사도 없소.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00194.wav|나는 사정이 있어서 그의 간곡한 요청을 거절했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00195.wav|나는 소년에게 괜히 미안했고, 읽다만 만화책의 재미도 여간 감질이 나지 않았다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00196.wav|나는 언니가 입은 하얀 웨딩드레스의 끝자락을 들었다가 다시 예쁘게 펼쳤다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00197.wav|나는 엄마가 거기다 돈을 둔다는 걸 알고 있었다. 그러니까 심심해서 세간을 뒤진 게 아니라 확실한 목표를 가지고 뒤진 거였다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00198.wav|나는 연극의 마지막 부분에서 멋있게 퇴장을 하고 싶었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00199.wav|나는 원래 아침잠이 없다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00200.wav|나는 인터넷으로 영화표를 예매해 두었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00201.wav|나는 추위를 견디기 위해 옷을 껴입었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00202.wav|나는 탁자 위에 놓인 콜라를 빨대로 빨았다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00203.wav|나라에서 비디오테이프의 규격을 통일했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00204.wav|나라의 실력만 충실하면 외국에게 대하여 웬만한 큰 실수가 있더라도 외국에서는 그것을 문제도 삼지를 못할 것이다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00205.wav|나에게 환영 예물로 축의금 내지는 미포를 가득 선사한 걸, 이 자리를 빌려 고맙게 생각하오.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00206.wav|나에게는 사랑스러운 아내와 아이가 있다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00207.wav|나의 머릿속에는 기억의 파편만이 남아 있다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00208.wav|나의 불안한 예감은 그대로 적중이 되고 말았다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00209.wav|나이는 어려도 그 아이는 꽤 대찬 데가 있다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00210.wav|낙안댁은 목젖이 아프도록 울음을 삼키며, 시야가 흐려지는 눈을 한사코 위로 떴다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00211.wav|난이란 원래가 고귀한 식물이고, 성품이 청결해서 시정에서는 기르기 힘들지.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00212.wav|날씨가 추워 담요 위에 이불을 덧썼다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00213.wav|날씨가 추워 돌화로에 불을 피워 놓았다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00214.wav|날씨가 추워 두꺼운 솜이불을 꺼냈다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00215.wav|날씨가 추워 면장갑에 털장갑을 덧끼었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00216.wav|날씨가 추워 손발이 시리다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00217.wav|날씨가 추워 창문을 꼭꼭 닫아걸었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00218.wav|날이 갈수록 내게는 그녀가 더 사랑스럽고 소중하게 생각되었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00219.wav|남산 공원 안에는 안중근 의사의 기념관이 있다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00220.wav|남의 이목이 두려워 몸을 사리느라고 몸소 찾아오지 못하고 사람을 보낸 모양이었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00221.wav|남의 이목이 두려워 열녀가 되고, 남의 눈초리가 무서워서 효부가 되는 수도 많다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00222.wav|남자는 사랑스럽다는 듯 연방 싱글거리며 여자를 바라보았다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00223.wav|남자친구가 잘 삐져도 사랑스러워 보이는 이유는 무엇일까요?|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00224.wav|남해 사람들이 부지런하다는 얘기는 들었지만, 실제로 그들의 생태를 보고 정말 놀랐다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00225.wav|내 곁에 앉아 있는, 어느 요정의 마담 같은 여자가, 자기의 저쪽 곁에 앉아 있는 사내에게 소곤거렸다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00226.wav|내 아들아 불의를 보면 참지 말고 정의 앞에 용감한 사람이 되어라.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00227.wav|내 옆 병상에는 췌장을 수술한 환자가 누워 있었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00228.wav|내 옆에서 쿨쿨하며 잠자고 있는 아기의 모습이 사랑스러웠다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00229.wav|내 친구는 전쟁 때 다친 왼발을 잘름대며 걷는다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00230.wav|내가 갈 때까지 꼼짝 말고 거기 그대로 있어라.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00231.wav|내가 괜히 그 사람 이야기를 했구나.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00232.wav|내가 못나서겠지만, 그렇다고는 해도 이렇게 늙도록 여길 떠나지 못하는 건, 단원 사이의 의리 때문인지도 몰라.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00233.wav|내가 문학에 관심을 기울이기 시작한 연유는 따로 있다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00234.wav|내가 신병 훈련소에서 퇴소하는 날 부모님과 애인이 면회를 왔다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00235.wav|내가 외로움에 젖어 있을 때면 늘 언니가 위로해 주었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00236.wav|내가 희정이한테 같이 수업 빼먹자고 꽤?|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00237.wav|내일부터 추석 귀향 기차표 예매가 시작된다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00238.wav|너 정말 몰라보게 예뻐졌다 얘!|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00239.wav|너만 예외로 시험을 면제받을 수는 없다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00240.wav|너무너무 귀찮다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00241.wav|너의 그런 행동은 친구 사이의 정의에 어긋나는 것이었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00242.wav|넌 과외 안 하고 혼자 힘으로 일 등 할 수 있다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00243.wav|네 아버지 권위 좋아하는 건 너도 알지? 박사학위니 큰 대학 병원 과장 선생님이니 하는 거 말이다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00244.wav|네 의견에 따를 의사가 있다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00245.wav|네가 본 도시의 야경은 얼마나 아름다웠는데?|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00246.wav|네가 선물을 다 사 오다니, 이게 웬일이냐?|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00247.wav|네가 이렇게 일찍 일어나다니, 이게 웬일이냐?|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00248.wav|노동 정책에 대한 의견을 청취하다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00249.wav|노동법의 개정을 둘러싸고 노사 간의 의견 대립이 첨예하였다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00250.wav|노사 협상이 빠른 진전을 보이고 있다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00251.wav|노인을 지켜보며 나는 마을 사람들이 토끼몰이에 대해서 어떤 금기라도 지키는 것은 아닐까 하는 의문마저 품었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00252.wav|노조는 경찰의 편파 수사가 갈수록 심해지고 있다며 반발했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00253.wav|논일을 하다 나와 낮잠이 든 아재들의 다리에 말라붙은 흙이 하얗다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00254.wav|논자에 따라 의견을 달리하다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00255.wav|농업생산성의 제고와 농지의 합리적인 이용을 위하거나 불가피한 사정으로 발생하는 농지의 임대차와 위탁경영은, 법률이 정하는 바에 의하여 인정된다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00256.wav|농촌 살림살이가 다 그렇듯 영희네도 예외는 아니었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00257.wav|누추한 곳에 귀인께서 왕림하시니 황송하오.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00258.wav|눈 덮인 겨울 산이 하얗다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00259.wav|뉴턴의 겸손과 에디슨의 노력은 그들의 발견과 발명보다도 더욱 귀중하다고 나는 생각한다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00260.wav|느닷없이 어둡고 적의를 품은 윤국의 모습, 그 눈동자가 시야 가득히 다가왔던 것이다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00261.wav|늙은 호박이 푸대접을 받아 온 데도 그 연유가 있는 것이 아닌가 한다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00262.wav|다 자란 새는 수월히 꽤 멀리까지 날았다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00263.wav|다른 사람이 묻는 말 또는 어떤 문제에 대하여 나름대로의 생각이나 의견을 말하다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00264.wav|다른 할 일이 많으니까 빨리 이 일을 끝내 주세요.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00265.wav|다리쉬임할 겸 의자에 앉았다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00266.wav|다시 담배 한 대를 파이프에 끼워 문 조 영감은 몇 번이고 거듭 연기를 빨아들인 뒤 구름같이 내뿜으며 계속했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00267.wav|다이너마이트가 터지자 사방으로 파편이 뛰었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00268.wav|다행히 그 한 정류장의 구간은 꽤 멀었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00269.wav|단체 손님이 예약되어 있어서 다른 손님을 받기가 곤란하다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00270.wav|달수가 구마모토의 눈에 든 건 극히 우연한 계기 때문이었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00271.wav|담당 의사가 입원 환자들을 회진하고 있다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00272.wav|당신은 귀인의 상을 타고났습니다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00273.wav|더위를 피하기 위해 아예 야외에서 밤을 보내는 사람들도 있었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00274.wav|도무지 말이 없던 갑례가 웬일로 불쑥 입을 열었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00275.wav|독재자는 이 사건을 탄압의 빌미로 삼았다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00276.wav|돈을 넣은 궤.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00278.wav|동네 꼬마들이 으드등으드등 다투는 모습이 오히려 귀여워 보인다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00279.wav|동생은 나에게 자신의 의사를 회신하였다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00280.wav|동생이 잘못했는데 괜히 나까지 야단을 맞았다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00281.wav|동일한 수법에 의한 살인 사건의 계기로 경찰은 비상 근무에 들어갔다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00282.wav|동행자가 꽤 여러 명이다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00283.wav|두 사람의 의견이 합치되었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00284.wav|두 사람이 사귄 지도 벌써 꽤 오래되었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00285.wav|둘러서 있던 사람들이 번쩍하는 칼 밑에서 벌어질, 끔찍한 장면이 두려워 눈들을 질끈 감는다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00286.wav|뒤차가 빠른 속력으로 내 차를 추월하였다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00287.wav|등산은 올라갈 때는 힘들어도 산 정상에 도달하면 쾌감을 맛볼 수 있다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00288.wav|등산을 갔다 왔더니 어찌나 피곤한지 몸을 꿈적거리기도 귀찮다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00289.wav|디자인에서 시각적인 효과만을 생각한다면 좋은 웹 디자이너가 될 수 없다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00290.wav|딸에게 웨딩드레스 입히기를 늘 갈망하시던 어머니 생각에, 나는 눈시울이 붉어졌다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00291.wav|땅속 깊은 곳의 지열을 파이프로 끌어내, 도로의 표면이 얼지 않도록 하는 장치가 개발되었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00292.wav|때로 인간은 실패를 도약의 계기로 만들어 성장하기도 한다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00293.wav|또 금년의 산운과 부합하니, 합봉하여도 구애됨이 없을 것입니다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00294.wav|뙤약볕에 타들어 가는 모 포기처럼, 사람들은 애만 타고 짜증만 늘어났다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00295.wav|뚜렷한 목표를 가지고 밀고 나가면 못 해낼 일이 없다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00296.wav|뜻밖에 구원금을 얻은 희준이는 참으로 개선장군과 같이 의기양양하였다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00297.wav|렌즈에는 기본적으로 표준 렌즈, 광각 렌즈, 망원 렌즈의 세 종류가 있다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00298.wav|리마인드 웨딩이 늘어나면서 사십, 오십대들의 결혼 예복 구매도 눈에 띄게 증가하고 있다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00299.wav|마당가의 팬지꽃 앞에 서 있던 영희가 더욱 귀여워 보였다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00300.wav|마당에 들어서선 한두 번 헛기침으로 기척을 살펴도 집 안은 휑하다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00301.wav|마른 나뭇가지는 빠른 시간 내에 화드득 탄다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00302.wav|막내는 쥐고 있던 다이아몬드을 내놓으며 의기양양한 표정을 지었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00303.wav|막상 봉우리에 오르니 안개가 시야를 가려 우리는 산의 전경을 볼 수 없었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00304.wav|막으면 정이 아닐세, 작은 정성을 큰 예물로 받아 주게.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00305.wav|만나서 무슨 얘기를 했니?|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00306.wav|만사가 귀찮다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00307.wav|만약에 이십삼세에서 무슨 바람이 불었는지 남보다도 빨리 결혼해 버리지 않았더라면|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00308.wav|말만 들어도 비위가 상할 지경이어서, 옛날에 그런 개장국을 어찌 먹었던가 하는 의심이 날 정도다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00309.wav|맑은 공기를 마시면서 건강이 좋아질 것 같은 예감이 들었어요.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00310.wav|맛있는 밥만큼 입맛을 돋우는 것도 없다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00311.wav|망원경으로 시야가 닿는 수평선 안의 해면을 샅샅이 훑었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00312.wav|매일 밤 주민들이 번갈아 딱따기를 두드리며 야경을 돌았다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00313.wav|매체가 변하고 시대가 바뀐다 하더라도, 웹 디자이너의 수요는 여전할 것이고 전문성도 인정될 것이다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00314.wav|머리를 조아리며 선생님의 훈화를 듣는 아이들이 귀여워 보인다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00315.wav|머지않아 추위가 닥쳐올 것을 생각하면, 따뜻한 겨울 코트를 일찌감치 장만해 두는 것도 괜찮은 일이라고 생각되었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00316.wav|먼저 오는 사람이 영화관 티켓을 예매하기로 했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00317.wav|먼저 직원실에 나와서 있어야 할 당직 선생 오 선생이 웬일인지 보이지 않았었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00318.wav|며칠 밤을 새웠더니, 머리가 어지럽고 무맥하여 움직이기가 귀찮다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00319.wav|며칠을 앓았는지 혜선이의 두 눈이 퀭했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00320.wav|며칠째 속이 좋지 않아 병원을 찾았던 그녀는 자신이 췌장암에 걸렸다는 사실을 알고 충격에 휩싸였다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00321.wav|멸종 위기에 처한 야생 동물.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00322.wav|명나라 진에 이르는 동안 병참마다 예물로 황금과 보패를 바쳤다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00323.wav|명령 규칙 또는 처분이 헌법이나 법률에 위반되는 여부가 재판의 전제가 된 경우에는 대법원은 이를 최종적으로 심사할 권한을 가진다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00324.wav|명예에 훼손을 입다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00326.wav|모두 그의 의견을 일축해 버렸다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00327.wav|모든 것이 번쩍번쩍한다. 정문은 휑하게 열려 있다. 바람이 제멋대로 들어왔다 나갔다 한다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00328.wav|모든 국민의 재산권은 보장된다. 그 내용과 한계는 법률로 정한다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00329.wav|모자로 한몫 보려던 텅 빈 그 허례와 권위 의식은 오늘날 감투란 말을 남기고 말았다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00330.wav|모자를 쓰기 좋아했다는 것은 그만큼 예의가 밝았다는 뜻으로 해석될 수도 있다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00331.wav|모처럼 갖는 휴식을 방해해 죄송합니다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00332.wav|목관 악기는 원래 나무로 만들었으나 오늘날에는 거의 금속으로 제작된다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00333.wav|목표가 계획보다 빨리 달성되었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00334.wav|목표로 하다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00335.wav|목표를 향해 전진하다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00336.wav|몸에 밴 구식 예의범절로 어른을 대하는 양갓집 자제다움 역시 그의 특징이었던 것이다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00337.wav|몸이 아프니 천사만사가 다 귀찮다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00338.wav|무더위 때문에 고통이 이만저만이 아니야.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00339.wav|무더위가 기승을 떨칠 때부터, 마을에는 이상한 소리와 이상한 소문이 떠돌기 시작하였다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00340.wav|무더위가 기승을 부리다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00341.wav|무더위가 식었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00342.wav|무분별한 개발로 자연이 많이 훼손되고 있다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00343.wav|무분별한 도벌로 삼림이 훼손되었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00344.wav|무분별한 산업화는 자연을 훼손하고 있다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00345.wav|무슨 연유로 이제야 도착했지?|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00346.wav|무엇보다 먼저 지방 행정의 숙폐를, 근본적으로 뿌리 뽑기 위한 개혁을 실시해야 한다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00347.wav|무차별적인 소프트웨어의 불법 복제로 인해, 프로그램 개발업자들의 근심이 깊어 가고 있다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00348.wav|무허가 주택 철거만 해도 자기 집 또한 예외가 아니란 걸 모르지 않았고,|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00349.wav|문수산 일대 이백육십 헥타르에 달하는 산 나무와 편백나무 조림지가, 최근 이십이세기를 위해 보존해야 할 아름다운 숲 부문 우수상을 수상했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00350.wav|문화 유적 훼손 실태.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00351.wav|문화에 대한 정의는 시대마다 조금씩 변화한다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00352.wav|문화유산 훼손.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00353.wav|문화의 광장.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00354.wav|물건이 그에게 넘겨지면 그를 도와서 매매하고, 정확하게 예약된 가격으로 지불이 되는가를 점검하고,|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00355.wav|물론 그의 시야 밖에서의 일이다. 녀석은 정말 주인처럼 행세했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00356.wav|물론 아득한 옛날, 신라가 삼국을 통일하기 직전의 일이야.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00357.wav|물의 양이 적어 밥이 설익었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00358.wav|물의를 빚어 죄송하다는 사과문이 신문에 실렸다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00359.wav|미식을 맡겨 놓고 이렇게 늦게 찾아뵈어 죄송합니다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00360.wav|미용 전문가들은 흐린 날에도 야외에서 많은 시간을 보낼 때는 자외선 차단용 크림을 바르는 것이 좋다고 말했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00361.wav|민수는 메모리를 늘리기 위해 하드웨어를 추가로 장착하였다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00362.wav|민씨들을 몰아내자는 데는 천하에 동조하지 않을 사람이 없을 테니, 지금은 그것만을 목표로 내세워서.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00363.wav|민주 사회의 과제 중의 하나는 경제적 정의를 실현하는 것이다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00364.wav|민주주의 운동이 갖는 진의는 진지하게 검토되어야 한다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00365.wav|민주주의의 진의와 그 현실화에 대한 구체적인 관건은, 결국 아래로부터의 국민의 힘이라는 것이다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00366.wav|민호는 친구를 꽤 같이 수업을 빼먹고 영화를 보러 갔다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00367.wav|민희의 얼굴은 달밤에 보는 박꽃처럼 하얗다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00368.wav|밀기울, 늙은 호박, 팥을 섞어 만든 풀떼기의 구수한 냄새는 똥예의 식욕을 돋우고 있다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00369.wav|밀렵으로 멸종의 위기에 놓인 야생 동물.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00370.wav|바닥에 피가 흥건히 응집하여 있는 것을 본 찬희는 비명을 질렀다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00371.wav|바둑이나 한 궤 두지.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00372.wav|바로 녹지대 맞은편 호텔 광장 앞으로 곧은 샛길이 지나갔고, 샛길의 오른쪽과 왼쪽에 초소가 있었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00373.wav|바로 이 주인집 여자가 옛날 그 집에서 종살이를 하다가 속량이 된 사람이다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00374.wav|바지가 크냬.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00375.wav|박 사장은 부동산에 관한 얘기를 꺼냈다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00376.wav|박 씨는 재판 도중 퇴장을 해 버렸다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00377.wav|박 의사는 재산과 명성을 물론 원했었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00378.wav|박물관 시공 회사는 금년 말 완공을 목표로 하여 작업을 서둘렀다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00379.wav|반해가 정 안되면 되는대로 둘을 나눠도 괜찮다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00380.wav|발표자에게 반대 의견을 개진하다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00381.wav|밤새 잠을 한숨도 못 자서, 낮에 눈이 가물거리며 시야가 자꾸 흐려졌다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00382.wav|밤에 술에 취한 사람은 소매치기의 밥이다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00383.wav|밤중에 좀 야경스러우나, 곧 기병할 준비를 차려서 평명에 행진하도록 독촉하니|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00384.wav|밤중에 좀 야경스러우나 곧 기병할 준비를 차려서 평명에 행진하도록 하라고 독촉하니|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00385.wav|밥이 질지도 않고 되지도 않다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00386.wav|방독 마스크는 마스크 부분과 그것에 연결되어 있는 호흡 파이프로 이루어져 있다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00387.wav|방원은 감옥에서 생각하기를, 나가기만 하면 연놈을 죽여 버리고, 제가 죽든지 무슨 요정을 내리라 하였다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00388.wav|방이 모두 회원들에게 예약되어 있어서 빈방이 없다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00389.wav|배가 고프니 꼼짝도 하기 싫다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00390.wav|배우가 무대에서 퇴장하자 곧 막이 내렸다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00391.wav|배우의 퇴장은 등장만큼이나 중요하다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00392.wav|백화점에서 점퍼를 구입하다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00393.wav|밴드형 기저귀는 항균, 소취 효과가 우수한 편백나무 추출물 성분을 함유해, 여름철 짓눌리고 쉽게 습해지는 아기 엉덩이를 더욱 뽀송하게 지켜 준다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00394.wav|벌목꾼이 나무를 다 베어 가서 산이 휑하다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00395.wav|범인의 보복이 두려워 범행 신고를 망설였다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00396.wav|범죄 용의자의 신병을 확보하다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00397.wav|범죄 행위의 잔혹성과 비인도성.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00398.wav|법관은 헌법과 법률에 의하여 그 양심에 따라 독립하여 심판한다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00399.wav|법률은 특별한 규정이 없는 한, 공포한 날로부터 이십일을 경과함으로써 효력을 발생한다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00400.wav|법률이 정하는 주요방위산업체에 종사하는 근로자의 단체행동권은 법률이 정하는 바에 의하여 이를 제한하거나 인정하지 아니할 수 있다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00401.wav|법률이 헌법에 위반되는 여부가 재판의 전제가 된 경우에는, 법원은 헌법재판소에 제청하여, 그 심판에 의하여 재판한다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00402.wav|벼락이 칠 때, 야외와 같이 확 트인 곳에서는 낮은 곳에 웅크리고, 땅과 닿는 부분을 최소화해야 한다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00403.wav|별것 아닌 일로 공연히 심려를 끼쳐 드려 죄송합니다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00404.wav|별일도 아닌 것을 무슨 대단한 것이라도 되는 양 이곳저곳으로 옮기는 아내가 푼수 같기도 하고 귀여워 보이기도 했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00405.wav|병들고 지친 몸으로 의기소침하여, 그 큰 체구를 볼품없이 오그라뜨리고 누워|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00406.wav|보편적이고 예외 없는 규칙.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00407.wav|본국 정부는 미국인 소개를 서두르고 있으나, 특파원은 예외다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00408.wav|본사에서 나온 직원인 듯한 사람이 감독에게 짜증을 내고 있었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00409.wav|볼링장에서 스트라이크가 나왔을 때의 기분은 쾌감 그 자체이다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00410.wav|봄이 되자 야외로 나가는 행락객이 많아졌다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00411.wav|부도나기 며칠 전에 그 삼촌이 외국에 갔다가 돌아왔어.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00412.wav|부모님은 나에게 예절에 어긋나는 행동을 하지 말라고 주의시켰다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00413.wav|부모님의 의견에 따르다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00414.wav|부모님의 의견을 좇기로 했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00415.wav|부부의 정의가 좋아야 가정이 화목하다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00416.wav|부산과 일본을 자주 왕래하는 사람으로 형편이 떳떳치 못한 사람의 종류가 여럿일 수는 없었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00417.wav|부왕의 의상을 갖춘 홍 박사가 어디론가 자취를 감춰 버리고 없었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00418.wav|부인의 가슴에 애처로움과 사랑스러움이, 봇물 터지듯 밀려왔다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00419.wav|분야가 다르다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00420.wav|분야가 아직 이 방면에 남아 있다는 얘기가 되는 겁니다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00421.wav|분에 넘치는 호화스러운 예물은 필요 없다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00422.wav|불길한 예감이 갑자기 머리에 지나갔다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00423.wav|불길한 일이 생길 것 같은 예감에 휘말리다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00424.wav|브라이드 웨딩 클럽 회원에게는, 오는 시월 이십이일까지는 홈페이지 내에서 매주 추첨해, 백만 원 축의금 통장, 세탁기, 웨딩드레스, 한복, 신부 화장, 스튜디오 촬영권 등을 준다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00425.wav|블로그가 개인 웹페이지의 변종이라면, 위키위키는 커뮤니티의 변화 또는 진화된 형태다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00426.wav|블로그는 사이트 운영자가 편집에 아예 관여하지 않는다는 점이, 기존 온라인 매체와의 차이점이다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00427.wav|대신 블로거가 올린 글에 대한 답글의 수와 독자의 평가 등을 소프트웨어가 기술적으로 평가, 반향이 있는 글은 눈에 띄는 위치에 배치한다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00428.wav|비 맞으셨군요. 얘, 금순아 거기 손님들께 수건 좀 내 드려라.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00429.wav|비가 많이 와서 시냇물이 꽤 불었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00430.wav|비상계엄이 선포된 때에는, 법률이 정하는 바에 의하여 영장제도, 언론 출판 집회 결사의 자유, 정부나 법원의 권한에 관하여 특별한 조치를 할 수 있다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00431.wav|비신사적 행동을 하여 퇴장을 당하다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00432.wav|비행기가 계기의 고장으로 향로를 이탈하였다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00433.wav|빗방울이 꽤 굵어졌다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00434.wav|빨대 없이 그냥 마시다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00435.wav|빨대로 우유를 쭉 빨아 마시다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00436.wav|빨대로 주스를 마시다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00437.wav|빨대를 입에 대다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00438.wav|빨대를 입으로 물다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00439.wav|사가 환자의 병을 오진하는 수가 있다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00440.wav|사건의 종결에도 불구하고, 그녀가 범인이라는 의문이 풀리지 않았다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00441.wav|사나이 의리 변치 말자는 둥 자네나 실수하지 말라는 둥 이상한 얘기들이 오갔어요.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00442.wav|사람들은 지는 해를 바라보며 천천히 청량리 역 광장을 빠져나가기 시작했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00443.wav|사람들은 탑 주위를 빙빙 돌면서 소원을 빌었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00444.wav|사람들의 요청에 못 이겨 그는 그 직책을 맡기로 했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00445.wav|사람들이 그 집은 꽤 잘 지었다고 말한다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00446.wav|사람들이 너 언제쯤 도착하냬.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00447.wav|사람이 갈수록 의기양양이군.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00448.wav|사랑하는 가족들과 함께 보내는 이 시간이, 내게는 무엇보다도 귀중하다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00449.wav|사래 긴 비탈밭에 핀 메밀꽃들은, 광목을 바래려고 펼쳐 놓은 것처럼 하얗다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00450.wav|사래 긴 비탈밭에 핀 메밀꽃이, 광목을 바래려고 펼쳐 놓은 것처럼 하얗다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00451.wav|사면, 감형 및 복권에 관한 사항은 법률로 정한다. 국회의원의 선거구와 비례대표제 기타 선거에 관한 사항은 법률로 정한다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00452.wav|사상 의학에서 보면 이런 사람들은 비장, 췌장 기능이 항진되고 식욕이 왕성한 성향이 나타난다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00453.wav|사신은 영접을 나온 중국 대신에게 인삼과 청심환을 예물로 주었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00454.wav|사장과의 만남을 비서에게 예약하였다|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00455.wav|사장님은 어제 외국으로 출장을 가셨습니다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00456.wav|사장은 나의 의견을 묵살했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00457.wav|사전적 정의가 그 사물에 대한 모든 것을 설명해 주지는 못한다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00458.wav|사천로 청년회로 가면 돈 안 받고 병 보아 주는 의사 어른이 계시다네.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00459.wav|사회가 각박해지면서 범죄가 날로 늘어나고 있다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00460.wav|사회의 무관심 속에 살고 있는 노인들.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00461.wav|사회의 정의를 실현하다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00462.wav|사회적 특수계급의 제도는 인정되지 아니하며, 어떠한 형태로도 이를 창설할 수 없다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00463.wav|산 위는 날이 추워 개나리가 미발했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00464.wav|살림에 무관심한 나태한 생활은 그를 겉늙게 했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00465.wav|삶의 진의를 알다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00466.wav|상대를 꼼짝 못 하게 만들다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00467.wav|상대측으로부터 회동 요청을 받다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00468.wav|상사 앞에서 그의 태도는 꽤 당당했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00469.wav|상하도 예의범절도 없이 제멋대로 날뛰는 이 현상이, 어찌 가탄하지 아니하오리까?|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00470.wav|새 대표는 마침내 회의장에서 퇴장을 당했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00471.wav|새 옷이 하얗디하얗다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00472.wav|새로 서비스에 들어간 웹 소설은, 현재 땡땡에서 제공 중인 웹툰 서비스를 장르 소설에 적용한 형태다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00473.wav|새침데기 아가씨가 오늘은 웬일로 알은체를 했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00474.wav|생각보다 학교가 꽤 멀었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00475.wav|생물은 크게 동물과 식물, 두 종류로 나뉜다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00476.wav|생산 시설의 자동화로 제품의 규격화가 이루어졌다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00477.wav|생선회는 원래 겨울이 제격이다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00478.wav|서로가 충분한 의견을 나누기 전에는 어느 한쪽도 함부로 다른 한쪽을 심판할 수는 없는 것이오.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00479.wav|서로의 의견 소통이 잘 이루어지다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00480.wav|서양의 파이프는 우리나라의 곰방대와 비슷한 것이다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00481.wav|서울로 가려면, 이 입체 교차로를 이용하는 것이 좋지만, 만약 불여의하면 직진하여 다음 교차로를 이용해도 괜찮다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00482.wav|서장이 예약한 방이 어디냐고 묻자, 안내하던 젊은이는 만석이 매무새를 위아래로 훑어보고 있었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00483.wav|서재에 관리 소홀로 오손된 책이 꽤 있다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00484.wav|선생님과 아무리 무관하게 지낸다 해도 그런 언행은 예의에 어긋난 것이다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00485.wav|선생님께 칭찬을 듣자 지연이는 더욱 의기양양해졌다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00486.wav|선생님께서 반장에게 반 아이들을 응집시키셨다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00487.wav|섭씨 삼십오도를 넘는 무더위.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00488.wav|성균이 아버지, 웬일이세요? 물건 하러 나오셨나 보죠.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00490.wav|성차별을 뿌리 뽑기 위해서는 먼저 사회 구조의 전반적 변화가 필요하다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00491.wav|세무소에 수시로 출입하는 일도 참 귀찮다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00492.wav|소녀는 수줍은 듯 분홍색 스웨터 앞자락만 내려다본다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00493.wav|소리를 외치면서 공원에서 뛰어나와 시내를 한 바퀴 돌며 공포 분위기를 조성해 놓곤, 조별로 목표 건물을 향해 돌진하기로 작정했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00494.wav|소프트웨어 개발 잘 되어 가니?|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00495.wav|소프트웨어가 대거 등장하고 있다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00496.wav|소프트웨어만으로도 영상 재생이 가능하다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00497.wav|소향은 바삐 움직여 우유를 데워 와서, 젖꼭지를 아기에게 물렸다. 아기는 힘차게 우유를 빨았다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00498.wav|손가락을 꼼짝도 못 할 정도로 감기 몸살이 심하다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00499.wav|손도 발도 꼼짝 놀릴 수 없고, 이제 오직 목구멍 한 가운데만 조금 트여 있는 모양이었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00500.wav|손해 보는 줄은 알았지만, 동업자끼리의 의리 때문에 차마 발을 뺄 수가 없었습니다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00501.wav|수류탄과 화염의 피해를 덜 입은 차량들도 유리창이 부서지고 파편에 맞아, 차체가 구멍투성이였다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00502.wav|수많은 웹툰 원작 만화들이 원작 마니아층에 의존한 기획이었다면, 이 작품은 보다 다양한 관객층을 겨냥한 영리한 계산들이 영화 곳곳에 엿보인다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00503.wav|수증기가 응집해서 물방울이 된다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00504.wav|숙종은 폐비 문제를 거론한 지 하루 만인 사월 이십이일, 귀인 김씨를 폐출시켰다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00505.wav|순모나 모가 섞인 스웨터는 좀이 슬기 쉽다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00506.wav|숟가락을 들려고 했을 때, 나의 억지 같은, 비현실적인 생활의 파편을 큼직한 덩어리로 뭉쳐 버리는 현실적인 전언들이 들려왔다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00507.wav|술기운으로 해 뻘게진 얼굴에는, 벌써 이발한 지도 오래되어 수염이 꽤 거칠게 자라있었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00508.wav|숱한 의문에 부딪치다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00509.wav|숲에 야생하고 있는 식물의 분포를 조사하다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00510.wav|스웨터를 두둑하게 걸쳐 입었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00511.wav|스웨터를 뜨다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00512.wav|스웨터에 무궁화 모양의 무늬를 수놓다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00513.wav|스카이라운지에서 내려다본 서울의 야경.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00514.wav|스테이지 위에서 가수가 퇴장하고, 스포트라이트도 꺼졌다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00515.wav|슬프게도 그런 점에서는, 앞서 말한 우리의 동료들도 이렇다 할 예외를 보여 주지 못했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00516.wav|시국 전반에 대한 의견 교환.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00517.wav|시금치는 또한 태양 광선 에너지의 응집체인 엽록소가 풍부하게 함유돼 있기도 하다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00518.wav|시멘트를 담는 종이 포대는 두꺼워서 뭘로 쓰든지 간에 괜찮다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00519.wav|시민들은 무더위를 피하여 산이나 강으로 피서를 갔다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00520.wav|시민의 의견을 높이 수렴하다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00521.wav|시아버지 될 사람도 말이 상사람이지, 예절 바르고 염치 차릴 줄 알고 착한 사람입니다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00522.wav|시야가 좁을수록 독단에 빠지기 쉽다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00523.wav|시에서는 수돗물의 원활한 공급을 위해, 노후된 수도 파이프를 새것으로 교체하였다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00524.wav|시장을 찾아가 우리의 의사를 전했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00525.wav|시청 앞 광장에 수많은 시민이 모여 대정부 시위를 하였다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00526.wav|시청자들은 기준을 잃어버린 편파 해설에 대한 강도 높은 비난을 퍼부었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00527.wav|시험에 떨어진 그는 몹시 의기소침했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00528.wav|식구들이 모두 집을 비우고 서울로 떠났다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00529.wav|식당에서 남은 음식은 돼지 밥으로 썼다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00530.wav|신기할 정도로 어머니의 예감이 적중했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00531.wav|신랑 집에서 신부 집으로 보내온 예물은 매우 고가품이었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00532.wav|신랑과 신부는 예물 반지로 금반지를 맞추었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00533.wav|신랑과 신부는 턱시도와 웨딩드레스를 예복으로 입고 결혼식장에 갔다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00534.wav|신부가 웨딩드레스를 사각거리면서 조심스럽게 움직였다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00535.wav|신부는 웨딩드레스를 매무시하며 흡족해하였다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00536.wav|신을 모신 자는 귀인이 도와준다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00537.wav|신청자가 밀려 더 이상 예약을 받을 수 없습니다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00538.wav|실직자를 위한 기금 출연을 요청하다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00539.wav|심유경은, 이 기쁜 소식을 어서 빨리 사랑하는 사람에게 알려 주고 싶었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00540.wav|심찬수가 자기 방으로 돌아오면, 비가 오는 날은 예외였지만, 그때부터 대체로 외출 준비를 했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00541.wav|심판에게 항의하던 선수가 퇴장당했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00542.wav|심판의 편파 판정에 대해 선수들의 격분을 우려한 감독이, 제지에 나섰다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00543.wav|심판의 편파 판정으로 우리들은 뚜껑이 열렸다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00544.wav|십구공탄 난로로는 어림도 없게 추워 보였다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00545.wav|싸울 의사가 없으면 얼른 물러나라.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00546.wav|쌀알이 파랗게 물들어 있는 야생이죽을 먹게 되는 것도 이 무렵이다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00547.wav|쌀을 궤에 넣다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00548.wav|쓰레기통 주변이 몹시 지저분하였다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00549.wav|아, 추워. 담요 좀 가져다줘.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00550.wav|아기가 귀엽고 사랑스럽게 방실방실 웃는다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00551.wav|아기에게 굳은 음식을 먹이기 전 조제분유나 연유를 물에 타서 먹이도록 한다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00552.wav|아까 야경 숙직이 모이는 공청에서 와서, 아홉 시까지 대어 오라는 통지가 있었다는 것을 생각하고|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00553.wav|아까부터 몸이 으쓱으쓱 추워 온다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00554.wav|아낙네들이 우물가에서 소곤소곤 얘기를 나눈다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00555.wav|아들에게 설득당하기보다, 남편에게 설득당했다는 편이 어미로서 위신의 훼손도 없을 것인즉, 길상도 모르지는 않았다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00556.wav|아들의 뒷모습이 시야에서 완전히 사라질 때까지, 어머니는 우두커니 서 계셨다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00557.wav|아마추어 농구 경기에서 다섯 번 반칙하면 퇴장을 당한다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00558.wav|아무리 우유가 건강에 좋다고 해도, 과하게 먹는 건 좋지 않다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00559.wav|아무리 행색이 초라하더라도, 귀인은 귀인의 표가 나타나기 마련이다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00560.wav|아버지가 그 사실을 알게 될까 두려워 가족들은 쉬쉬하고 있다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00561.wav|아버지들은 대개 아들보다 딸을 더 귀여워한다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00562.wav|아버지의 권위가 말이 아니다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00563.wav|아영이는 이번 계기로 새사람이 되겠다고 결심했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00564.wav|아이 방에 압정이 떨어져 있는 것을 볼 때마다 가슴이 털컥털컥 내려앉는다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00565.wav|아이가 빨대를 꽂아 우유를 빨아먹었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00566.wav|아이가 웬일인지 자꾸 팔을 바르작거린다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00567.wav|아이가 짜증 끝에 소리를 꽥 질렀다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00568.wav|아이는 상으로 받은 스케치북을 들고 의기양양하여 마당을 뛰어다녔다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00569.wav|아이는 일전에 초를 두 가락 사 왔다. 연유를 물은즉 새로 생긴 일본인 가게에서 그렇게 싸게 팔더라고 했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00570.wav|아이는 코가 뭉툭해서 귀여워 보였다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00571.wav|아이들은 굶주림과 추위에 떨고 있었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00572.wav|아이를 안아서 의자에 앉히다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00573.wav|아이를 파는 행위는 범죄이다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00574.wav|아주 먼 옛날 호랑이 담배 피우던 시절.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00575.wav|아주머니는 또 가까운 에이 시에 나가, 대도시의 어떤 요정 못지않은 고급의 안줏거리를 사들인다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00576.wav|아주아주 까마득한 옛날에, 마을도 사람도 들판도 없는 그런 옛날에, 산이 우뚝우뚝 솟아 있었는데|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00577.wav|아침 일곱시가 되면 알람 예약된 삐삐는 어김없이 울렸을 것이고, 혜진은 얄짤없이 발딱 일어나서 세수를 하고 화장을 했을 터였다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00578.wav|아침부터 뿌옇게 흐려 있었는데, 회의가 시작되는 오후 네 시경까지도 하늘은 그대로 흐려 있어, 동네는 무언지 새벽녘 같은 혹은 백야 같은 고즈넉한 분위기에 싸여 있었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00579.wav|아침을 거르고 나왔더니 배가 몹시 고파.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00580.wav|안중에 박힌 파편을 제거하는 수술을 했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00581.wav|압수 수색 영장의 발부를 요청하다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00582.wav|압정에 시달리다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00583.wav|압정을 꽂아 게시물을 부착했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00584.wav|앞니가 빠진 아이의 모습이 귀여워 보였다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00585.wav|앞으로 시설 의무 사용 기간을 다 채우지 못하고 퇴소하는 시니어 타운 입소자들은, 남은 기간만큼의 이용금을 돌려받을 수 있게 됐다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00586.wav|앞으로만 잘해 준다면 지난 일은 아무래도 괜찮다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00587.wav|애고, 이 녀석아, 이게 웬일이냐.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00588.wav|애정 없는 관심은 무관심과 다를 바가 없다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00589.wav|야경벌이란 무슨 벌인지 야경벌이하는 사람을 따라다니다가 잡혀 갇혔다고 하데.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00590.wav|야경을 돈다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00591.wav|야권에서는 지난 총선 때 있었던 각 방송사의 친여 편파 방송을 강력히 지적하였다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00592.wav|야생 동물 보호를 위한 수렵 금지 구역.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00593.wav|야생 동물의 생활을 관찰하다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00594.wav|야생 동물이 개울에서 뛰어노는지 잘박대는 소리가 밤새 이어졌다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00595.wav|야생 벚꽃은 우리나라가 원산지이다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00596.wav|야생동물을 권양하려면 상당 기간은 무척 힘이 들 것이다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00597.wav|야생의 세계에서는 강자만이 살아남는다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00598.wav|야외 결혼식.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00599.wav|야외 공연장 주변은 구경꾼들로 왁시글왁시글 들끓었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00600.wav|야외 음악당|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00601.wav|야외로 소풍을 나간 우리 가족은, 모처럼 즐거운 시간을 보냈다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00602.wav|야외에서 그림을 그릴 때는 화대가 필요하다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00603.wav|양양 낙산사는 의상 대사가 창건한 것으로 동해의 고찰이다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00604.wav|양현이가 시집갈 때, 꽃베개랑 아름다운 결혼 의상을 만들어 주는 것을 공상하고 있었어.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00605.wav|얘, 강냉이떡은 왜 훔쳐 먹었니, 왜 먹었니?|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00606.wav|얘, 거기 누구 있니?|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00607.wav|얘, 그 막대기를 내게 주지 않을래?|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00608.wav|얘, 그만 가자.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00609.wav|얘, 도대체 이게 얼마 만이니?|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00610.wav|얘, 잠깐 아기 좀 보고 있으련.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00611.wav|얘가 어디 갔지?|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00612.wav|얘가 오늘 저녁으로 떠나겠다는구나.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00613.wav|얘기를 털어놓다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00614.wav|얘는 음식을 그렇게 먹는데도 살이 안 쪄요.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00615.wav|얘를 어떻게 가르쳐야 버릇을 고칠까?|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00616.wav|어딘가로 떠나고 싶지만 여행 계획 짜는 것이 귀찮다. 이럴 때 쓰라고 인터넷이 있다는 것이 인터넷.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00617.wav|어떤 개념에 대한 절대적인 정의를 내리기는 쉽지 않다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00618.wav|어떤 회담은 할 말들이 없어서 회담장에 들어왔다가, 오 분도 안 되어 퇴장한 일도 있소.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00619.wav|어른 앞에서 술을 그렇게 발깍대면서 마시면 예의가 없어 보이니, 좀 점잖게 마셔라.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00620.wav|어른의 무관심은 청소년을 비뚤어지게 만든다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00621.wav|어린 곡예사는 연기가 끝나면 무대 의상을 입은 채 객석을 돌며 사진을 팔았다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00622.wav|어머니 혼자 집을 지키고 계신다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00623.wav|어머니가 육이오 때 파편 맞고 돌아가셨거든, 이게 바로 파편이 박혔던 자리라고.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00624.wav|어머니께서는 소원을 빌며 탑 주위를 도셨다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00625.wav|어머니는 딸의 손을 사랑스럽게 매만지면서 말씀하였다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00626.wav|어머니는 숙모님과 무슨 얘기를 주고받고 있다가 별안간 필재가 뛰어드는 통에 흠칫하는 눈치였다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00627.wav|어머니는 털실로 스웨터를 떴다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00628.wav|어머님, 사위라고 자주 찾아뵙지도 못하고 죄송합니다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00629.wav|어물거리지 말고 자신의 의사를 명확히 밝혀야 할 것이다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00630.wav|어수룩한 상사는 아랫사람에게 밥이 되기 쉽다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00631.wav|어제 그녀와 나는 아무것도 아닌 일로 몹시 다퉜다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00632.wav|어제의 축구 경기에서 레퍼리의 편파 판정이 문제가 되고 있습니다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00633.wav|어쩌면 다시는 못 볼 것만 같은 예감이 들었다. 어쩌면|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00634.wav|어쩐지 그 꿈이 오늘의 이 일과 부합이 되는 것만 같아, 용한 꿈도 다 있다 싶다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00635.wav|언니가 짜증 섞인 말로 말했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00636.wav|언론 노조 위원장은 방송과 보수 신문의 편파 보도는 집권 여당 선거 전략에 맞춘 부실, 편파, 일방적 보도였다라고 말했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00637.wav|언론 단체 등은 대선일이 다가오면서 땡땡 방송의 편파 방송이 더 심해지고 있다는 진단을 내놓고 있다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00638.wav|언론 출판에 대한 허가나 검열과 집회 결사에 대한 허가는 인정되지 아니한다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00639.wav|언론 출판은 타인의 명예나 권리 또는 공중도덕이나 사회윤리를 침해하여서는 아니된다. 언론 출판이 타인의 명예나 권리를 침해한 때에는 피해자는 이에 대한 피해의 배상을 청구할 수 있다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00640.wav|언론도 그런 사실을 부각하며 편파 중계를 하지 않겠다고 하였다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00641.wav|언어의 종류는 그 기준과 방법에 따라 다양한 분류가 가능하다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00642.wav|한국 정보 산업 연합회와 임베디드 소프트웨어 산업 협의회가 공동 주최한 조찬 강연회에 참석한 후 가진 인터뷰에서, 일상생활 속으로 침투하는 컴퓨팅 기술의 비전을 소개했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00643.wav|언제나 항상 주의를 기울이다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00644.wav|얼굴에 살이 오르니 귀여워 보인다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00645.wav|엄마가 너 언제 서울 올 거냬.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00646.wav|엄마가 예약해 놓았다는 음식점 이름만 알아 놓고, 뒤에 처져 받을 건 받고 줄 건 주는 졸업식의 사무적인 끝마무리를 했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00647.wav|엄친의 명령도 지중한 터인즉, 다시 연유를 물을 수도 없지.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00648.wav|업계 관계자는 해외 디지털 만화는 종이 만화를 단순히 모니터로 옮긴 형태로 소비돼 왔지만, 한국 웹툰은 모바일 환경에 최적화한 플랫폼을 선보였다.라고 설명했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00649.wav|여기서 꼼짝 말고 기다려라.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00650.wav|여긴 수많은 외국인이 드나드는 곳입니다. 미리부터 훨씬 앞당겨서 예약을 해 놓지 않으면 표를 구하기가 여간 어렵지 않습니다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00651.wav|여덟 사람의 경주자는 횟가루로 줄을 그은 마당에 왼발을 하나씩 내짚고 호각 소리가 나기를 기다리고 있다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00652.wav|여러 가지 의견이 수다히 나왔다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00653.wav|여러 종류의 책.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00654.wav|여름에는 귀신 얘기가 제격이다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00655.wav|여름엔 왱왱대며 날아다니는 파리 때문에 귀찮다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00656.wav|여름을 이 도시에서 지내야 하는 많은 시민이 있다는 사실을 나는 알고 있었고, 나는 그런 시민들로부터 예외가 되고 싶지 않았다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00657.wav|여름휴가 동안 콘도를 예약하여서 이용할 예정이다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00658.wav|여성의 지위 향상 운동은 일반적으로 인권 운동과 궤를 같이한다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00659.wav|여인의 음성이 떨어지기가 무섭게 중서는 의문에 가득 찬 시선으로 여인을 바라보았다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00660.wav|여자는 말끄러미 준태를 쳐다보았다. 쳐다보는 눈매가 준태의 진의를 묻고 있는 듯했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00661.wav|여자의 근로는 특별한 보호를 받으며, 고용 임금 및 근로조건에 있어서 부당한 차별을 받지 아니한다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00662.wav|역 광장에 시계탑을 세우다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00663.wav|연극이 끝나자 관객들이 퇴장하기 시작했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00664.wav|연유를 털어놓다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00665.wav|연일 삼십도씨를 넘는 무더위가 계속되었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00666.wav|연일 찌는 듯한 더위가 기승을 부리는 요즈음, 짜증이 더해지니 불쾌지수는 높아만 간다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00667.wav|열차표 예매는 며칠부터 하나요?|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00668.wav|열차표는 모든 역에서 예매할 수 있다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00669.wav|영미가 왜 나를 적대하는지 전혀 이해할 수 없다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00670.wav|영숙이는 어려서 여섯살까지 피아노 과외를 받았다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00671.wav|영재는 광 안으로 들어가서 십 년을 묵은 큰 궤를 열었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00672.wav|영하 이십도가 넘는 데다 바람까지 불어 추위가 뼛속까지 스며들었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00673.wav|영호는 무사히 훈련소를 퇴소했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00674.wav|영화 서편제는, 판소리에 대한 우리의 인식을 새롭게 하는 계기를 마련했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00675.wav|영화계에서는 이미 웹툰의 실사화가 꾸준히 시도됐다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00676.wav|옆집 꼬마는 너무 귀여워 꼭 인형을 보는 것 같다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00677.wav|예감이 뭔가 좋다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00678.wav|예감이 예감으로 그치지 않고 현실이 되는 경우가 있다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00679.wav|예를 지켜 사람의 질서를 유지하자니 옷을 입는 것이고, 악한 것이 있으니까 올바른 의리를 가지자는 것이, 사람의 도리가 아닙니까?|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00680.wav|예매를 실시하다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00681.wav|예물 단자를 적어 보면 황모시 열 피, 흰모시 스무 필, 검은 마포 열 필|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00682.wav|예물로 금딱지 시계를 받다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00683.wav|예물로 받은 다이아 반지가 가짜로 감별되자 그녀는 몹시 당황하였다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00684.wav|예비군에 대한 처우도 개선돼 훈련 중에만 적용되던 국가 보상 제도가 입 퇴소 시로 확대됐다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00685.wav|예비비는 총액으로 국회의 의결을 얻어야 한다. 예비비의 지출은 차기국회의 승인을 얻어야 한다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00686.wav|예상보다 빨리 그날이 왔다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00687.wav|예식이 시작되자 웨딩드레스를 입은 신부와 연미복을 입은 신랑이 나란히 입장했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00688.wav|예식장에서 빌린 웨딩드레스가 몸에 맞춘 듯 꼭 어울렸다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00689.wav|예약 취소 시 하루 전까지만 알려 주시면, 예약금을 반환해 드리겠습니다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00690.wav|예약한 사람에게만 입장권을 매표하였다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00691.wav|예전에는 사람들이 가난하여 밥을 거르기 일쑤였다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00692.wav|옛날 속담이 맞는 경우가 아직도 꽤 많다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00693.wav|옛날 어느 마을에 장님 처녀와 앉은뱅이 총각이 아래윗집에서 살았습니다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00694.wav|오늘날 세계 대부분의 국가는 민주주의에 부합하는 정치를 하고 있다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00695.wav|오늘은 그 누구도 예외가 될 수 없는 언어폭력의 문제점과 해결 방안에 대하여 논해 보도록 하겠습니다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00696.wav|오늘은 날이 추워 도서관에 갈 마음이 없다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00697.wav|오늘은 왠지 불길한 예감이 들어 매사에 조심을 하고 있다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00698.wav|오늘은 웬일인지 술맛이 덤덤하다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00699.wav|오늘은 점심에 짜장면 먹자.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00700.wav|오랜만에 그리고 각기 다른 의견을 갖고 있을 테니, 그렇게 않으면 의견 대립이 생겨 모처럼의 재회가 시끄럽게 될까 두려워서 하는 말이다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00701.wav|오랜만에 보는 거리의 풍경이나 식당의 모양이, 외국에서 온 사람처럼 서먹서먹했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00702.wav|오월인데 날이 꽤 덥더군.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00703.wav|온 누리가 하얗다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00704.wav|온다는 사람이 왜 안 올까?|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00705.wav|온몸에 땀띠가 나서 몹시 가렵다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00706.wav|올림픽을 계기로 하여 사회 체육에 대한 관심이 높아졌다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00707.wav|올봄에는 어깨심을 넣지 않은 자연스러운 어깨선을 강조하는 의상이 유행할 전망이다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00708.wav|올해 여름은 유난히도 무더위가 기승을 부린다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00709.wav|옳다, 그 의견이면 되겠다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00710.wav|옷붙이가 가득히 두 궤.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00711.wav|왕은 당신의 뜻과 꼭 부합되는 이명신의 명찰에 빙긋이 웃었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00712.wav|왕자 사 형제에 옹주 다섯을 둔 김 귀인의 의기는 자못 양양했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00713.wav|왜, 그 멋진 남자 선생님 있잖아?|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00714.wav|왜, 사고라도 났는가. 어떻게 된 거야.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00715.wav|왜, 우리말에 궁합이란 게 있지. 늙은이들이 사주팔자를 따져서 맞느니 안 맞느니 하는 궁합 말이야.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00716.wav|외국 대통령의 착한 성명.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00717.wav|외국 문화의 수입과 교역.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00718.wav|외국 자본을 유치하다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00719.wav|외국에 나가면 처음에는 그 나라 사람들과 언어불통하고, 주위 환경이 생소하여 외로움을 느끼게 된다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00720.wav|외국으로 떠나 버릴까 보다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00721.wav|외국으로 이민 가다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00722.wav|외국인과 접촉한다는 것은 내성적인 성격의 사람에게는 고통스러운 일이다. 언어의 장벽이 있어서 의사를 교환하기가 힘들고, 그 때문에 오해나 멸시를 받을까 두렵기 때문이다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00723.wav|외국인은 국제법과 조약이 정하는 바에 의하여 그 지위가 보장된다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00724.wav|외로움. 그것은 뭇사람들과 떨어져 홀로이 있는 외로움이 아니었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00725.wav|외로움이 사무칠 때마다 그는 머리를 담벼락에 내받으며 괴로워하였다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00726.wav|외분비계인 췌장은 소장으로 분비되는 여러 가지 효소들을 만들어 낸다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00727.wav|요 앞 중국집은 쟁반짜장면 맛이 제일 좋아.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00728.wav|요정처럼 아름답고 매혹적이었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00729.wav|요즘 같아서는 세끼 밥 먹기가 힘들다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00730.wav|요즘 같은 날씨에 그녀의 미니스커트는 너무 추워 보인다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00731.wav|요즘 볼륨을 풍성하게 살린 웨딩드레스가 다시 유행하고 있다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00732.wav|요즘 아내는, 그 옛날 자신이 이루지 못한 피아니스트의 꿈을 딸에게서 이루고자 한다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00733.wav|용문사에는 의상 대사가 꽂은 구절장이 은행나무가 되었다는 천연기념물이 있다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00734.wav|우렁찬 만세 소리에 군중이 응집하기 시작했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00735.wav|우륵도 진흥왕이 음악 애호가임을 알게 되었다. 그는 진흥왕의 간곡한 요청에 따라서 새로 가야금의 곡을 지어 왕 앞에서 연주하였다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00736.wav|우리 둘째는 성적 때문에 의기소침하는 일이 없어요.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00737.wav|우리 모두 힘을 합쳐 정의가 구현되는 사회를 만듭시다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00738.wav|우리 밴드는 대학 행사에서 축하 공연을 해 달라는 요청을 받았다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00739.wav|우리 아버지는 유독 이 의자에 앉아 책을 보는 것을 좋아하신다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00740.wav|우리 축구팀의 공격수가 퇴장하는 바람에 경기의 흐름이 바뀌어 버렸다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00741.wav|우리 회사는 신기술 분야에 취약하다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00742.wav|우리에게 무슨 의견이 있겠습니까?|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00743.wav|우리나라는 옛날부터 동방예의지국이라 불렸다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00744.wav|우리는 당신의 의견에 반대합니다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00745.wav|우리는 시원한 쾌감을 느끼며 맥주를 마셨다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00746.wav|우리는 예로부터 예절 교육을 중시 여겨 왔다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00747.wav|우리는 조카가 이따금 빵글 웃는 모습이 귀여워 빵글이라고 부른다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00748.wav|우리는 중국집에 짜장면과 짬뽕을 주문했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00749.wav|우리는 폭격으로 집을 잃고 거리에 나앉았다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00750.wav|우리는 프랑스 요리를 잘 몰라서 웨이터가 추천하는 음식으로 주문했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00751.wav|우리는 후보의 공약과 실제 사업의 부합 여부를 궁금하게 여기고 있습니다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00752.wav|우리도 그의 의견에 합세하였다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00753.wav|우리들은 야외 수영장 그늘터에 자리를 잡고 도시락을 먹었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00754.wav|우리들은 전문가의 의견을 듣기로 했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00755.wav|우리의 모든 역량을 응집하면 그 일도 해낼 수 있다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00756.wav|우연한 일치였지만 심술스러운 부합이었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00757.wav|우유가 얼마 남지 않았는지, 빨대를 빨 때마다 짜르륵짜르륵 소리가 났다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00758.wav|우유를 마시다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00759.wav|우유를 쪽 빨아 마시다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00760.wav|우윳빛의 웨딩드레스를 입고 신부 대기실에서 얌전히 앉아 있는 미향이의 모습은, 마치 천사와 같았다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00761.wav|우주 항공 분야의 개척권을 얻다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00762.wav|우쭐우쭐 곤댓짓하며 의기양양하던 승자의 모습은 어디로 갔는가?|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00763.wav|원래 기술 좋은 장인은 연장 탓하지 않는 법이다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00764.wav|원래 네 물건이던 것을 저 마네킹이 강제로 빼앗아 갔으므로, 그것을 되돌려받는다고만 생각해라.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00765.wav|원래 서울 사람이다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00766.wav|원래는 농민군 전부가 호위군이었으나, 한창 농사철이라 별동대가 일부 남아서 호위군 일을 했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00767.wav|원래의 가격보다 훨씬 싸다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00768.wav|원영은 눈을 댕그렇게 뜨고 자신을 쳐다보는 아이가 귀여워 안아 주었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00769.wav|원조 요청을 쾌히 응낙하다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00770.wav|웨딩드레스는 신부의 체형에 맞게 입을 때 가장 예뻐 보인다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00771.wav|웨딩드레스를 곱게 차려입은 신부가 아버지의 손을 잡고 예식장으로 들어오고 있다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00772.wav|웨딩드레스를 못 입어 보았다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00773.wav|웨딩드레스를 입은 신부가 신랑의 눈에는 어릴 정도로 아름다웠다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00774.wav|웨딩드레스를 입은 신부는 정말 예뻤다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00775.wav|웨딩드레스를 입은 신부는 참 아름다웠다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00776.wav|웨딩드레스를 입은 신부를 보자 신랑은 뿅 가 버렸다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00777.wav|웨딩드레스를 입은 언니의 모습은 눈이 부실 정도로 아름다웠다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00778.wav|웨딩드레스를 입은 연희의 모습은 이 세상 누구보다도 아름다웠다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00779.wav|웨딩드레스를 진주로 장식했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00780.wav|웨딩마치가 울리고 순백의 드레스를 입은 신부가 식장 안으로 미끄러지듯이 걸어 들어왔다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00781.wav|웨이터가 어느새 술을 날라 와, 세 사람 앞에 술잔들을 늘어놓았다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00782.wav|웨이터는 돌아서려다가 다시 메뉴판을 내밀었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00783.wav|웨이터는 익숙한 솜씨로, 나의 잔에 양주를 따랐다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00784.wav|웬일로 네 방을 깨끗하게 싹 치워 놨냐?|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00785.wav|웬일로 여기까지 다 왔니?|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00786.wav|웬일이냐? 촛대가 저렇게 말을 많이 하게.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00787.wav|웬일인지 요즘은 살이 쑥쑥 빠진다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00788.wav|웹에서 찾을 수 있는 정보는 그야말로 무궁무진하다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00789.wav|웹을 띄우려는 업체가 단순한 컴퓨터 그래픽 디자이너보다는, 인터넷 지식을 갖춘 웹 디자이너를 원하고 있기 때문.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00790.wav|웹툰 작가 땡땡땡이 프로 관종의 품격을 선보였다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00791.wav|웹툰은 상위 문화에 에너지를 공급하는 하위문화로서 대우받을 뿐이었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00792.wav|웹툰이 인기를 얻으면서, 인터넷이 만화가의 등용문 역할을 하고 있다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00793.wav|웹툰이 인기를 얻자 하루 방문자 수가, 많을 땐 일만웹툰 이만 명으로 늘어났다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00794.wav|위원은 탄핵 또는 금고 이상의 형의 선고에 의하지 아니하고는 파면되지 아니한다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00795.wav|위키위키 개발자인 워드 커닝엄은 모든 웹페이지를 어느 누구나 쉽고 빠르게 고치도록 하기 위해 만들었다고 합니다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00796.wav|윗사람에게 친절히 하고 어른께 몸 바치는 도리와 예의염치의 교양을 다해야 할 것입니다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00797.wav|유리 파편을 밟은 모양인지 발바닥이 따끔댄다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00798.wav|유리컵이 바닥에 떨어지면서, 유리 파편이 사방에 튀었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00799.wav|유효 기간이 지난 우유.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00800.wav|육군 훈련소와 제일 신교대에서 하던 총검술은, 제이 신교대에서 받게 되고, 퇴소하면 일병급 이상 수준에 오르도록 교육을 강화하고 있다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00801.wav|육상 경기 트랙의 국제 표준 규격은, 한 바퀴가 사백미터로 정해져 있다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00802.wav|윤 선생, 이 돈을 도로 받아 두세요. 황금도 귀중하지만 남의 자존심도 좀 생각해 주셔야죠.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00803.wav|윤이병이 떠는 것은 추위 탓맛은 아니다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00804.wav|윤태는 남희가 대견하고 사랑스러워 어쩔 줄을 몰랐다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00805.wav|을 퍼서 공기에 담다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00806.wav|음식은 나가서 먹어도 잠은 꼭 집에서 자도록 해라.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00807.wav|음식을 장만한 사람에게 맛있다는 인사는 최소한의 예절이다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00808.wav|음향과 움직임을 가미한 무빙툰이 도입되면서, 웹툰이 한 단계 진화하고 있다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00809.wav|응원단의 우렁찬 함성 소리에 군중이 응집하기 시작했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00810.wav|의기소침에 빠지지 말고 다시 일을 시작하자.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00811.wav|의기소침해서 병역을 끝내고, 다시 한 삼년 생활의 진창에서 뒹군 뒤, 천구백칠십구년에야 겨우, 동아 신춘 중편을 통해 등단하게 되었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00812.wav|의리 없는 놈.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00813.wav|의리를 모르는 놈과는 더이상 대화할 필요가 없다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00814.wav|의리에 살고 의리에 죽는다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00815.wav|의무교육은 무상으로 한다. 모든 국민은 언론 출판의 자유와 집회 결사의 자유를 갖는다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00816.wav|의문을 제기하다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00817.wav|의문의 사체가 발견되었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00818.wav|의문이 풀리다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00819.wav|의사들의 장례를 국민장으로 치르다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00820.wav|의사가 어두운 안색으로, 보호자를 찾았다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00821.wav|의사가 환자에게 병명과 예후를 설명했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00822.wav|의사는 그가 곧 완쾌되리라고 내다보았다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00823.wav|의사는 소독약으로 상처 부위를 소독했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00824.wav|의사는 약을 식전에 먹으라고 하였다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00825.wav|의사는 환자를 마취하고 수술을 시작했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00826.wav|의사는 환자에게 지나친 과음을 경고했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00827.wav|의상 발표회에서는 실물 의상과 일러스트레이션이 함께 전시되었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00828.wav|의원을 제명하려면 국회재적의원 삼분의 이 이상의 찬성이 있어야 한다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00829.wav|의자 끄는 소리가 시끄럽다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00830.wav|의자 다리가 제꺽 부러지다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00831.wav|의자 발걸이에 두 발을 얹다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00832.wav|의자가 푹신해서 앉기에 편하다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00833.wav|의자로 쓰기에 십상 좋다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00834.wav|의자를 바싹 당겨 앉다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00835.wav|의자의 다리가 부러졌어.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00836.wav|이 글은 영상 이미지에 대한 몇 가지 의문으로부터 출발한다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00837.wav|이 기업은 공모로 사람을 뽑기보다는 헤드헌터를 통해 전문가를 영입한다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00838.wav|이 기와 조각은 발해의 건축 양식을 엿볼 수 있는 귀중한 유물이다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00839.wav|이 길은 주의하지 않으면 사고가 일어나기 쉽다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00840.wav|이 네트워크는, 이곳의 하드웨어를 다른 지역의 하드웨어와 공용할 수 있게 해 준다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00841.wav|이 모임에 참석한 사람들은 모두 경제 분야의 전문가입니다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00842.wav|이 무더위에 어떻게 지냈니?|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00843.wav|이 버섯은 먹어도 괜찮다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00844.wav|이 부분은 손가락을 빨리 움직이지 않으면 박자에 맞게 음을 연주할 수가 없다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00845.wav|이 사건은 사람들의 무관심 속에 차츰 잊혀 갔다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00846.wav|이 세 편으로 갈리다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00847.wav|이 소설의 주인공은 정의의 사도로써 불의에 대항해 싸운다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00848.wav|이 스웨터는 짜임새가 거칠다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00849.wav|이 시대의 실상을 모른 체하려는 무관심은, 비겁한 회피요, 일종의 범죄다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00850.wav|이 아파트는 베란다에서 보이는 전경이 괜찮다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00851.wav|이 야외 촬영 장소는 영화 테마파크로 조성되었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00852.wav|이 옷은 부드러운 흰색의 융과 면, 두 종류로 만들었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00853.wav|이 음식점은 평일에도 예약을 해야 할 정도로 손님이 많다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00854.wav|이 의자는 높이가 조절된다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00855.wav|이 의장은 자신이 퇴장의 미학을 보여 줄 수 있었으면 좋겠다는 생각을 가지고 있다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00856.wav|이 일은 개인적인 일이니 근무 시간에 하지 말고, 과외로 시간을 내서 하는 것이 좋겠습니다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00857.wav|이 일은 제가 과외로 시간을 내어서 하겠습니다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00858.wav|이 제과점에는 다양한 종류의 쿠키가 있다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00859.wav|이 책은 본격적인 정치 콩트 소설이라는 점에서 기존의 풍자 소설과는 궤를 달리한다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00860.wav|이 탑 밑에 벽송 대사의 사리가 들어 있는가.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00861.wav|이 헌법공포 당시의 국회의원의 임기는, 제일항에 의한 국회의 최초의 집회일 전일까지로 한다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00862.wav|이 환자는 고기의 섭취량을 줄이고 우유와 야채를 많이 먹어야 한다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00863.wav|이거 상스럽게 말씀 올려 죄송천만이올시다요.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00864.wav|이것과 그것은 종류가 같다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00865.wav|이것들은 무대복이나 웨딩드레스 등의 장식에 많이 이용된다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00866.wav|이것은 소금에 절인 배추에 왜간장을 친 것인데, 사각사각 씹히면서 맛이 괜찮다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00867.wav|이것은 임금님께 진상할 귀중한 물건이다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00868.wav|이게 웬일이냐?|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00869.wav|이곳은 마을 사람들이 동티가 두려워 감히 건드리지 못하는 땅이다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00870.wav|이곳을 퇴소하면 정식 직원이 된다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00871.wav|이놈, 꼼짝 말고 오라를 받아라.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00872.wav|이달 중순부터 본격적인 추위가 시작된다고 한다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00873.wav|이들 농가는 야생 화묘를 조경용이나 관상용 등으로 공급, 연간 총 삼십억에서 사십억 원의 매출을 올리고 있다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00874.wav|이들은 지난 미국산 쇠고기 수입 반대 촛불 운동 당시, 광우병 위험성에 관한 만화를 그린 웹툰 작가들을 열거하며, 선동질이었다고 비난한다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00875.wav|이렇게 낮 동안은 별로 지루한 줄 모르고 지내다가도 밤만 되면 으레 의기소침해지는 적객들이었다. 특히 신참 죄수인 늙은 두 대감이 더 심했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00876.wav|이렇게 늦게 찾아뵈어서 죄송합니다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00877.wav|이렇게 유벽한 곳까지 오시게 해서 죄송합니다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00878.wav|이른 봄이라 아직 추위가 가시지 않은 일요일이었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00879.wav|이를 위해 국내 화물 수송용 표준 컨테이너의 규격을 따로 정해야 한다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00880.wav|이미 그 일에 정이 떨어진 지 꽤 되었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00881.wav|이밖에도 시는 이천십년까지, 땡땡 제일 하수 처리장 일대에 십팔억 원을 들여, 편백 잣나무 등 차폐수와, 금목서 천리향 등 방향수를 심는 생태 숲 조성에 나선다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00882.wav|이번 가을에 그는 요양소를 퇴소한다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00883.wav|이번 계기는 우리에게 주어진 마지막 기회이다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00884.wav|이번 남북 정상 회담은 통일의 발판을 마련하는 계기가 될 것이다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00885.wav|이번 사건으로 그의 명예가 크게 훼손됐다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00886.wav|이번 사건은 당국의 무관심과 무성의로 말미암은 것이었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00887.wav|이번 사건은 이제 그만 요정을 지읍시다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00888.wav|이번 사건이 그의 평생에 걸친 업적과 인격에 치명적인 훼손을 줄 수도 있다는 지적이, 일각에서 일고 있다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00889.wav|이번 사태로 웹 브라우징, 전자 우편 전송 등 인터넷 관련 모든 활동이 심각한 타격을 받았다고 에이피는 전했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00890.wav|이번 수사가 야당 정치인에게만 집중되어 편파 시비가 일고 있다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00891.wav|이번 시간에는 물체의 속도와 위치를 계기로 정확히 측정해 봅시다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00892.wav|이번 일로 대통령의 권위가 실추되었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00893.wav|이번 일은 그의 의사와는 상관없이, 내 결정대로 밀고 나갈 것이다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00894.wav|이번 일은 예감이 좋다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00895.wav|이번 판은 저 집에서 이길 것 같다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00896.wav|이번 회의에서 의사 진행은 종희가 맡기로 했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00897.wav|이번에 건설되는 자동차 경주장은 국제 규격에 비하면 작은 편이다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00898.wav|이사를 하는 날에는 중국집에 짜장면과 짬뽕, 탕수육을 시켜 먹어야 제맛이다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00899.wav|이상하게도 날짜별로 예약이 되었던 자리가, 무더기로 취소되어 왔다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00900.wav|이에 그녀는, 뭇 남자의 사랑을 저울질해 보려 했고, 또 정복도 해 보고 싶었다. 그리하여 사랑의 광장이요 남성들의 시장인 기계에 들어갔다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00901.wav|이장이 굳이 점심 대접을 하겠다고 본인이 몇 번씩 찾아와, 어쩔 수 없이 그 집엘 따라갔다. 시골집치곤 꽤 갖추어 사는 살림이었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00902.wav|이제 오면 어떻게 하느냐고 종알종알하는 진경이가 너무 귀여워 은철은 빙그레 웃었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00903.wav|이제 외국으로부터 쌀까지 수입해야 하는 시대로 접어들었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00904.wav|이틀간의 선발 시험을 거친 태극 전사들은, 눈밭 축구로 흘린 땀을 샤워장에서 씻어 낸 뒤, 곧바로 퇴소해 귀가했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00905.wav|이틀을 앓고 나더니 혁수의 눈이 휑하다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00906.wav|인간에게 믿음은 무엇과도 바꿀 수 없을 만큼 귀중합니다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00907.wav|인접 초소에 교차 사격을 요청하다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00908.wav|인체에 유익한 다양한 효능을 가진 편백나무를 이용한 실내 인테리어가, 건강에 다양한 도움을 주는 것으로 알려지면서, 이를 찾는 이들이 빠르게 늘고 있다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00909.wav|일곱 살 난 이웃집 딸애는 예의가 없고 성격도 난폭해서, 제 부모에게 꾸중을 자주 듣는다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00910.wav|일반적 진리란 역시 예외를 용허하지 않는가 봅니다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00911.wav|일본 관헌들은 조선 내지의 천주교를 탄압하기 시작했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00912.wav|일본에 이르렀다가, 도적에게 겁탈되어 예물과 행장을 다 태워 버렸습니다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00913.wav|일이 보기보다 엔간찮아서 시간이 꽤 걸린다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00914.wav|일제는 독립지사들에게 무자비한 탄압을 가하였다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00915.wav|일제의 감시와 탄압을 못 견딘 서당이 점차 문을 닫고 없어진 탓도 있지만.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00916.wav|임금님이 연유를 베풀어 신하들의 공을 치하했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00917.wav|입고 있는 붉은 스웨터의 물빛이 곱구나.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00918.wav|입학 초에 싹튼 두 사람의 정의는, 학창 시절을 함께 보내며 날로 두터워졌다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00919.wav|자네 그런 의견이 통용될 줄 믿는가?|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00920.wav|자네가 왜 그런 일을 해야 했는지 그 연유를 말해 보게나.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00921.wav|자네와 함께 보행하니 외로움이 덜한 것 같군.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00922.wav|자동차는 사용하는 기관의 종류에 따라, 증기 자동차, 가솔린 자동차, 디젤 자동차, 전기 자동차 등으로 나뉜다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00923.wav|자리를 뒤에서 여남은째 줄로 예약해라.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00924.wav|자석은 흩어진 철가루를 응집시키는 데에 효과적이다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00925.wav|자연 과학에서의 미개한 분야.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00926.wav|자연환경 훼손이 심하다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00927.wav|잠바에 목도리를 두른 그의 옷차림은, 추위를 견디기에는 너무 허술해 보였다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00928.wav|잠자는 아기의 모습이 너무 귀여워 가지고 한동안 눈을 뗄 수가 없었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00929.wav|장군은 포로들을 앞세우고 의기양양하게 성안으로 들어왔다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00930.wav|장마가 끝나고 나자, 본격적인 무더위가 시작되었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00931.wav|장에 갔다 올 테니까 동생이랑 집 보고 있어라.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00932.wav|재산권의 행사는 공공복리에 적합하도록 하여야 한다. 모든 국민은 학문과 예술의 자유를 가진다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00933.wav|재의의 요구가 있을 때에는 국회는 재의에 붙이고, 재적의원과반수의 출석과 출석의원 삼분의 이 이상의 찬성으로 전과 같은 의결을 하면, 그 법률안은 법률로서 확정된다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00934.wav|재판부가 담배 소송 관련 감정서의 요지서를 기자들에게 배포해 편파 시비를 일으키고 있다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00935.wav|저 멀리로 찬란한 서울의 야경이 불타고 있었고, 검은 강물 위에 야경의 불빛이 거꾸로 번져 흐르고 있었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00936.wav|저 사람은 원래가 예의 바르고 성실한 사람이야.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00937.wav|저녁이 되니 바람이 설렁거려서 꽤 시원하다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00938.wav|저는 가문에 누가 될까 두려워 가수라는 직업을 포기했습니다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00939.wav|저는 소프트웨어 개발 업체에서 근무합니다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00940.wav|저는 일이 잘못될까 두려워 간이 조마조마했습니다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00941.wav|저는 제집이 누구나 모여 창작하고 토론할 수 있는, 문학의 광장이 되기를 바랍니다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00942.wav|저의 목표는 훌륭한 의사가 되는 것입니다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00943.wav|적산 전력계는 일정 기간에 사용한 전력을 적산하여 숫자로 나타내는 계기이다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00944.wav|적이 벼랑 밑 개활지에 집결해 있다면 이것은 아군 포격의 훌륭한 목표가 된다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00945.wav|전 인류의 과학적 경험을 넓은 시야에서 새롭게 바라보고 이해하지 않으면 안 된다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00946.wav|전국에서 어느 도보다도 동학 교세가 센 충청도 교도들은, 관의 탄압에 견디다 못해 어서 대책을 세우라고 교주가 있는 중앙 법소에 빗발치듯 하소연을 했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00947.wav|전날 바람에 대해 신경을 썼던 이승엽은, 프리 배팅 후, 좌익수 쪽으로는 타구가 잘 나가지 않지만, 우익수 쪽은 괜찮다. 특히 라인드라이브성 타구는 영향을 받지 않는 것 같다 라고 말했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00948.wav|전래 동화는 먼 옛날부터 전해 내려오는 이야기이다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00949.wav|전문 서적을 비롯한 다양한 소프트웨어를, 관심 있는 이들에게 공람할 계획이다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00950.wav|전압 변환 소프트웨어를 내장하고 있는 이 제품은, 수동적으로 입력 전압을 조작할 수 있다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00951.wav|전쟁 승리 기념탑을 둘러보다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00952.wav|전쟁은 인간에게 문명 발전의 계기를 마련해 주기도 한다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00953.wav|전제 국가에서는 임금이 절대적인 권위를 가지고 있었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00954.wav|전통 의상을 차려입은 이들이 갖가지 채기를 들고 행진을 한다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00955.wav|전화를 해서 못 간다고 핑계를 대야겠군. 이럴 땐 집에 전화가 있었으면 좋겠단 말씀이야. 공중전화가 있는 약방까지 가야 할 게 귀찮다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00956.wav|점심시간인데도 식당은 꽤 조용한 편이었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00957.wav|점심으로 뭐 먹을지 짜장면하고 짬뽕 중에 선택해.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00958.wav|접수자의 실수로 삼번 좌석이 더블로 예약되었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00959.wav|정당의 설립은 자유이며, 복수정당제는 보장된다. 법률이 헌법에 위반되는 여부가 재판의 전제가 된 경우에는 법원은 헌법재판소에 제청하여 그 심판에 의하여 재판한다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00960.wav|정부가 이 법안의 시행을 백지화하기로 한 것은 단결된 시민의 힘이 응집된 결과이다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00961.wav|정부는 범죄와의 전쟁을 선포했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00962.wav|정부는 협회가 초안한 품질 규격 기준을 승인했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00963.wav|정숙을 지키지 않으면 퇴장 명령을 내립니다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00964.wav|정의를 소중한 것으로 여기고 있습니다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00965.wav|정의를 위하여 싸우다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00966.wav|정자는 우리 민족의 정서와 자연환경에 부합되는 한국적인 건축물이다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00967.wav|정자는 우리 민족의 정서와 자연환경에 부합되는 한국적인 건축물 가운데 하나이다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00968.wav|정치 개혁에 부합하는 인물.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00969.wav|정치적 무관심은 민주주의의 기본 원리인 자치의 참뜻을 위협하는 현상으로 볼 수 있다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00970.wav|정해진 시간이 지나면 예매된 극장표는 환불되지 않는다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00971.wav|제 밥은 제가 찾아 먹어야지 남이 어떻게 챙겨 주니?|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00972.wav|제 일항의 해임건의는 국회재적의원 삼분의 일 이상의 발의에 의하여, 국회재적의원 과반수의 찬성이 있어야 한다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00973.wav|제 이항의 재판관중 삼인은, 국회에서 선출하는 자를, 삼인은 대법원장이 지명하는 자를 임명한다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00974.wav|제비가 처마 끝에 집을 지었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00975.wav|제안된 헌법개정안은, 대통령이 이십일 이상의 기간 이를 공고하여야 한다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00976.wav|제일 과학적인 방법으로 인간을 연구한다는 노력이, 마지막에는 인간의 파편을 한 아름 얻었을 뿐.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00977.wav|제주도 가는 배표를 두 장 예약했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00978.wav|제주도에 부수한 작은 섬들도 꽤 많다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00979.wav|조명에 비친 무대 의상이 유난히 뻔쩍뻔쩍 빛난다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00980.wav|조선은 유교를 국교로 삼고 불교를 탄압하기 시작했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00981.wav|조판은 활자를 일정한 규격에 맞추어 배열하는 작업이다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00982.wav|졸업식은 격식대로 끝났다. 총장, 내빈, 교수들이 서서히 퇴장했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00983.wav|졸업식은 학생들의 퇴장으로 중단되었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00984.wav|좀 부유하게 되었다고 옛날 생각을 잊어서는 안 된다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00985.wav|좀 전에 물을 마시고 갈증이 가셔서 이제 괜찮다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00986.wav|좀 전에 물을 마시고 갈증이 가시어서 이제 괜찮다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00987.wav|종류가 많아졌다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00988.wav|종수는 마을 사람들이 이렇게 들떠 있는 저만치 뒤편에서, 자기 혼자 외돌토리가 되어 버린 것 같은 외로움을 느끼고 있었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00989.wav|종이컵이나 빨대는 재활용품 수거함에 분리를 해서 넣어야 한다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00990.wav|좋은 의견이나 생각을 떠올려 봐라.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00991.wav|좌익이 호락호락 탄압만 받고 있을까요?|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00992.wav|죄송하지만 두 사람의 자리를 되바꿔 앉으세요.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00993.wav|죄송합니다. 여기서는 말씀드리기가 곤란하군요.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00994.wav|주말에 급한 일이 생겨서 금강산 콘도 예약을 취소해야겠습니다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00995.wav|주전 선수 두 명이 퇴장당했으니, 그 팀은 이제 종이호랑이나 마찬가지이다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00996.wav|죽은 듯이 누워 있어서 깜짝 놀랐다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00997.wav|죽음과 맞바꿀 정도로 귀중한 것은 세상에 없다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00998.wav|준규는 여자에게 걸려 온 전화를 바꿔 주며, 투기심으로 눈을 흘기는 은주가 귀여워 보였다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_00999.wav|준기는 말로 사람을 잘 꽤.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01000.wav|중국은 지금 프리소프트웨어 열풍이 불고 있다. 이 열풍의 한가운데에는 지난 천구백구십구년에 중국에 처음 등장한 리눅스가 자리 잡고 있다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01001.wav|증인은 보복이 두려워 아무것도 모른다고 발뺌했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01002.wav|지각 한 번 없던 그가 결석을 하다니, 웬일일까?|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01003.wav|지금 삶에 재미가 없는 것은, 내가 지금 내 삶에 집중하지 않았기 때문입니다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01004.wav|지금 이 시간이 우리의 생사에 관계되는 귀중한 시간이오.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01005.wav|지금의 시련을 계기 삼아 더 나은 모습으로 발전해야지!|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01006.wav|지난 이십년간 투쟁해 온 우리의 집념이 응집되어, 오늘의 결과를 낳았다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01007.wav|지민이는 사이다를 빨대로 마구 휘저어 기포하였다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01008.wav|지연이의 수줍어하는 모습이 그렇게 사랑스러워요?|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01009.wav|전날에는 야외 공연을 할 수 없다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01010.wav|진우는 수혜를 태운 버스가 시야에서 사라지고 나서도, 그 자리에 한동안 더 서 있었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01011.wav|집에 가 보았자 남편의 빈 자리만 휑하게 드러나, 마음만 걷잡을 수 없도록 썰렁해지게 마련이었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01012.wav|집에 돌아오니 아내의 빵끗대는 얼굴이 더욱 귀여워 보였다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01013.wav|집에 빨리 오는 사람이 밥을 해 놓자.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01014.wav|집에서 쉬겠다더니만 웬일로 나왔니?|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01015.wav|집은 저러나 마당은 꽤 넓다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01016.wav|집을 뒤져 보니 백성들로부터 빼앗은 돈이 두 궤쯤 되었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01017.wav|짝짝짝 요란한 박수를 받으며 두 사람은 예물을 교환하고 있었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01018.wav|짠순이가 웬일로 밥을 다 산대?|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01019.wav|짧게 깎았던 머리가 꽤 많이 길었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01020.wav|쪼그만 강아지가 콩콩 짖어 대는 것이, 무척이나 귀여워 보인다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01021.wav|찌는 듯한 무더위 속에 장마가 시작되었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01022.wav|찬찬히 빛을 발하는 웨딩드레스 속에서, 그녀가 환하게 웃고 있었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01023.wav|참담한 외로움에 자신도 모르게 하늘만 쳐다봐도 눈물이 솟구쳤다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01024.wav|창문으로 바라다보는 야경이, 보석 상자를 엎지른 것같이 찬란하다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01025.wav|창밖에는 어둠이 짙게 깔렸고 기차 안의 사람들은 의자에 앉은 채로 졸고 있었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01026.wav|채권자의 빚 채근에 꽤 들볶였다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01027.wav|철민이는 퀭한 눈으로 천장만 바라보고 있었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01028.wav|철수는 슬기에게 바람맞고 의기소침해져서 집으로 돌아왔다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01029.wav|첩보대에서 수집한 정보로는 적이 사단 사령부 근처의 오십일포대를 일차 공격 목표로 삼고 있다는데,|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01030.wav|청소년 여러분, 어서 집으로 돌아가십시오.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01031.wav|청소년과 대화의 광장을 열다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01032.wav|청소년기 자녀들이 가족의 응집성과 적응력을 어떻게 지각하고 있는가를 알아야 한다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01033.wav|청소년기는 성장이 매우 빠른 시기이다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01034.wav|청소년들은 범죄의 유혹에 빠지기 쉽다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01035.wav|초겨울이 되니 아침 출근길이 조금 추워.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01036.wav|초대를 해 놓고 찬 없이 밥상을 차려 정말 죄송합니다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01037.wav|최 교수는 땅속에서 발견된 석기의 파편을 관찰하여 보고서를 작성했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01038.wav|최근 골프장 내장객이 넘치면서 주말 예약이 어려워지자, 회원들이 입회금 반환을 요구하고 나섰다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01039.wav|최근 인공 췌장에 대한 연구가 선진국에서 활발하게 진행되고 있다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01040.wav|추석 대목이라 주문이 많이 밀려 있으니 예약을 하십시오.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01041.wav|추위가 뼈 속에 스며들어 추위를 느꼈다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01042.wav|추위와 죽음과, 그리고 마지막 순간의 외로움과도 그녀는 쉽게 친화했음이 분명했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01043.wav|축구 경기에서는 두 번 경고를 받게 되면 퇴장을 당한다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01044.wav|축제 기간에 캠퍼스 야외무대에서는 통기타 가수의 라이브 콘서트가 열렸다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01045.wav|출연한 아이들이 모두 손에 손을 잡고 무대를 한 바퀴 돌고는 손을 흔들면서 퇴장을 했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01046.wav|출판 만화와 달리 웹툰은, 마우스 클릭 휠을 이용해 한 페이지로 길게 편집된 웹 페이지를 지칭한다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01047.wav|춥춥스럽게 날아드는 파리떼도, 장난꾼 각다귀들도 귀찮다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01048.wav|췌장에서 만들어지는 무색의 소화액인 이자액은, 우선 이자관에 모이게 된다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01049.wav|췌장에서 분비하는 인슐린에 문제가 생길 때 발생한다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01050.wav|치료는 의사가 합니다만, 환자의 의지가 있어야 병이 빨리 낫습니다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01051.wav|친한 선후배 사이이더라도, 공식적인 자리에서는 높임말로 서로를 대접하는 것이 예의이다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01052.wav|침엽수는 추위에 잘 견딘다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01053.wav|칩칩스럽게 날아드는 파리 떼도, 장난꾼 각다귀들도 귀찮다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01054.wav|카페는 한산했다. 웨이터는 식탁을 훔치고 메뉴판을 내밀었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01055.wav|칼을 잘 닦은 후 집에 넣어 보관해라.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01056.wav|커피는 서기 육세기 경에, 아라비아 인이 야생으로 자라던 것을 처음으로 음료로 만들어서 세상에 알려지기 시작했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01057.wav|컴퓨터는 각종 응용 소프트웨어뿐만 아니라, 첨단 하드웨어와 주변 기기도 비약적으로 발전하였다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01058.wav|컴퓨터는 몸체인 하드웨어와, 기계의 작동 방법인 소프트웨어로 대별된다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01059.wav|컴퓨터는 소프트웨어가 없으면 무용지물이다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01060.wav|컴퓨터에 스팸 메일, 음란물 차단 소프트웨어를 설치한다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01061.wav|콜라 속에 빨대를 넣고 불자, 보글거리는 거품이 올라왔다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01062.wav|크게 보면 교단의 총지휘부인 법소로 상징되는 최시형의 권위가 도전을 받아 흔들리게 된 것이다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01063.wav|큰 병을 앓고 난 동생은, 눈이 퀭하게 꺼지고 볼이 쑥 들어가서, 마치 해골 같았다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01064.wav|큼큼 헛기침으로 목을 다듬고 나서, 방아 타령 한 대목을 뽑기 시작하였다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01065.wav|키 작은 종세의 얼굴 앞에서, 무언가 수상한 범죄가 벌어지고 있었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01066.wav|탄압 속에서도 독립운동은 계속되었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01067.wav|탄압이 심하다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01068.wav|탑 쌓기 내기를 하다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01069.wav|탑 주위를 빙빙 돌다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01070.wav|탑을 도는 아사달의 발길은 느리게 지척거린다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01071.wav|탑을 세우다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01072.wav|탑이 왼쪽으로 조금 쌜기죽하게 기울어져 있다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01073.wav|탑이 한쪽으로 기울어져 있다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01074.wav|태환의 가출은 흩어져 살던 가족들이 응집하는 계기가 되었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01075.wav|털 스웨터에 부푸러기가 일다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01076.wav|털실로 뜨개질하여 스웨터를 만들다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01077.wav|퇴소를 하겠다고 고집 부렸다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01078.wav|퇴장당한 그 선수는 의자에 가만히 앉아 있지 못하고 벌떡거렸다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01079.wav|파티쉐가 평생 기능직이라는 인식이 확대되면서, 전문 파티쉐를 양성하는 호텔 제과 제빵과에 진학하려는, 학생들과 학부모의 문의가 늘고 있다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01080.wav|편지에는 문짝들이 없어졌다고 했으나, 그동안 수리를 했는지 옛날보다 더 단정하고 깨끗해졌다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01081.wav|편파 보도 사례를 열거했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01082.wav|평소에 남들을 대하는 예절에서, 그 집안의 가정 교육이 다 드러난다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01083.wav|폭력 주식회사의 운영에는, 당대 사회의 모든 비겁한 특성들이 응집된 것일 수밖에 없었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01084.wav|폭력에 대한 무관심과 방임은 하루속히 고쳐야 한다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01085.wav|폭탄이 터지자, 파편이 수백 미터 밖으로 튀어 나갔다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01086.wav|피곤한 탓인지 별일도 아닌 일에 자꾸 짜증이 나.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01087.wav|필름에는 칠십밀리미터, 삼십오밀리미터, 십육밀리미터, 팔밀리미터, 슈퍼 팔밀리미터 등, 여러 가지 종류의 규격이 있다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01088.wav|하나하나 상자들이 열려 가고 있는 동안, 붉어졌던 원장의 얼굴색은, 뜻밖에도 다시 원래의 그것으로 되돌아가 있었다|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01089.wav|하늘에 떠 있던 비행기가 시야에서 점차 사라졌다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01090.wav|하얀 웨딩드레스를 입고 면사포를 곱게 쓴 신부는 정말 아름다웠다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01091.wav|학교 건물이나 여타 상업 시설과 달리 문화 시설에는 표준화된 규격을 설정하기 어렵다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01092.wav|학교교육 및 평생교육을 포함한 교육제도와 그 운영, 교육재정 및 교원의 지위에 관한 기본적인 사항은, 법률로 정한다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01093.wav|학교에서의 선후배 예절은 엄격하다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01094.wav|학생 여러분들은 세계로 시야를 넓혀 나가야 합니다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01095.wav|학생들이 썰물처럼 빠져나간 운동장이 휑하니 비어 있다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01096.wav|한 귀퉁이에 박혀 있던 압정이 빠져서, 포스터가 바람에 펄럭거린다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01097.wav|한 꼬마가 눈같이 하얀 토끼가 귀여워 견딜 수 없었는지 뽀뽀를 해 댄다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01098.wav|한 달 넘게 두 신부가 한꺼번에 자리를 비워, 적잖이 의기소침하던 차에 민란이 일어나, 전전긍긍 갈피를 못 잡던 교인들은|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01099.wav|한 분야에 파고들어야 성공한다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01100.wav|한 씨의 경우 웨이터와의 친분 쌓기가 가장 중요하다고 강조한다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01101.wav|한 인터넷 사이트에선 네티즌들이 직접 채널을 운영하며, 자신만의 방송을 틀어대고 있고, 자생적인 웹툰 작가들이 프로 작가로 속속 데뷔하고 있다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01102.wav|한겨울에 파이프가 동파돼 출근길 도시의 거리는 온통 빙판이 되어 버렸다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01103.wav|한국 선수들의 항의가 이어졌지만, 득점 찬스에서의 명백한 비신사적 행위는, 경고 없이 곧바로 퇴장시킬 수 있다.라는 강화된 규정에 따라 이론의 여지가 없는 퇴장감.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01104.wav|한국의 의상에는 분명히 한국적인 미가 있는 것 같다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01105.wav|한때 십 대 청소년들 사이에서 의사 동성애가 유행처럼 퍼지기도 하였다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01106.wav|한약은 여러 번 우려먹어도 괜찮다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01107.wav|한창 크는 분야라서 지원자가 많다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01108.wav|할아버지는 손주의 재롱이 너무 귀여워 손주의 머리를 씨다듬어 주었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01109.wav|할아버지는 연유도 묻지 않고 다짜고짜 긴 장죽으로, 내 정수리를 세차게 내리치시면서 호통을 치셨다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01110.wav|함 속에는 더군다나 예물로 주는 옷감의 가짓수를, 많이 넣어 보낼수록 좋아하고,|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01111.wav|함박골 뒷산에는 사람들이 하얗다. 그 가운데 수난녀가 끼어 미칠 듯이 버둥거렸다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01112.wav|함안댁은 괜히 혼자 웃은 일이 멋쩍어, 공동묘지 쪽을 내려다보며 금분이를 원망해 본다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01113.wav|합창을 하고 다시금 독창의 요청을 받았다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01114.wav|항해 중인 선박에서 구조 요청이 왔다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01115.wav|해당 분야의 경력자를 모집하다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01116.wav|해방 전에는 꽤 오붓한 지주가 돼 있었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01117.wav|햇살 화사한 봄날, 웨딩드레스와 턱시도를 곱게 차려입은 노부부 두쌍이 리마인드 웨딩을 올렸습니다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01118.wav|행동이 불량하여 선생님에게 주의를 받았다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01119.wav|행정각부의 장은, 국무위원 중에서 국무총리의 제청으로 대통령이 임명한다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01120.wav|헌법개정안은, 국회가 의결한 후 삼십일 이내에 국민투표에 붙여, 국회의원선거권자 과반수의 투표와, 투표자 과반수의 찬성을 얻어야 한다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01121.wav|헌법개정은 국회재적의원 과반수, 또는 대통령의 발의로 제안된다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01122.wav|헌법재판소 재판관은, 정당에 가입하거나 정치에 관여할 수 없다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01123.wav|헌법재판소 재판관의 임기는 육년으로 하며, 법률이 정하는 바에 의하여 연임할 수 있다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01124.wav|헌법재판소는 법률에 저촉되지 아니하는 범위안에서, 심판에 관한 절차, 내부규율과 사무처리에 관한 규칙을 제정할 수 있다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01125.wav|헌법재판소에서 법률의 위헌결정, 탄핵의 결정, 정당해산의 결정 또는 헌법소원에 관한 인용결정을 할 때에는, 재판관 육인 이상의 찬성이 있어야 한다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01126.wav|헌법재판소의 조직과 운영 기타 필요한 사항은 법률로 정한다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01127.wav|현미밥은 영양가가 높은 것은 물론 꼭꼭 씹으면 밥맛도 괜찮다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01128.wav|현실에 부합하는 유연한 세정을 펴다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01129.wav|현정권은 이번 사건으로 인한 도덕성 훼손을 최소화하기 위한 자구책 마련에 부심하고 있다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01130.wav|현호는 매사에 의욕이 없어 제 밥도 못 찾아 먹는다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01131.wav|현호는 최근 들어 작은집 식구들만 보면, 괜히 삐딱해지는 심사를 스스로도 잘 가늠할 수가 없었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01132.wav|형사피해자는 법률이 정하는 바에 의하여, 당해 사건의 재판절차에서 진술할 수 있다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01133.wav|형은 열심히 일을 하여 돈을 꽤 많이 모았다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01134.wav|혜성이는 씽긋씽긋 웃는 모습이 참 귀여워.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01135.wav|혜장은 그 외로움을 달래 주는 살뜰하고 따뜻한 벗이며, 총명하고 우수한 제자이기도 하였다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01136.wav|호주 제도는 현대적 가족생활의 양식에 부합되지 않는다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01137.wav|혼수로 구입하는 전 고객에게, 크라이슬러 세브링 컨버터블 웨딩카를 제공한다고 최근 밝혔다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01138.wav|혼인과 가족생활은 개인의 존엄과 양성의 평등을 기초로 성립되고 유지되어야 하며, 국가는 이를 보장한다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01139.wav|혼자 사는 이내 외로움을 누가 알아주랴.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01140.wav|홍이는 답답했고 이상했다. 도대체 앞서가자는 것인지 되돌아가자는 것인지, 그의 진의가 아리송했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01141.wav|홍콩의 야경은 현란한 조명으로 인해 더욱 화려했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01142.wav|화가 난 위원장의 퇴장으로, 심사 위원회는 수라장이 되었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01143.wav|화초는 물을 준다고 해서 다 되는 것이 아니다. 종류에 따라 물을 주면 오히려 죽는 식물도 있다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01144.wav|환경 문제는 선진국이나 후진국이나 예외가 있을 수 없다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01145.wav|환국은 노부부의 외로움이 가슴 저리게 전해져 왔다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01146.wav|활짝 웃는 아이의 모습이 너무 사랑스러워요.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01147.wav|황금 이삭으로 뒤덮인 야경이 아름답다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01148.wav|회장이라는 이름만으로 권위를 가질 수는 없다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01149.wav|훈련병들은 훈련소에서 퇴소하게 되면, 일선 부대에 배치된다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01150.wav|훼손된 문화재의 복원이 시급하다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01151.wav|휴가철 인파 때문에 기차표 매표는 실내가 아니라 야외에서 실시되고 있었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01152.wav|희곡은 다루는 소재에 따라, 비극과 희극으로 구별하나, 원래는 작가가 그 세계를 어떻게 보느냐에 따라 구별되었다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01153.wav|희망을 가지고 병마와 싸우면 다시 옛날처럼 살 수 있으니 힘내렴.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01154.wav|희철이는 스스로 공부의 기초가 부족하다고 여겨, 과외를 받고 싶어했다.|hyanggi
+eargada_hyanggi_1155/22k_wav/hyanggi_01155.wav|힘이 없어서 걷기도 귀찮다.|hyanggi
