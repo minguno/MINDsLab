@@ -1,7 +1,13 @@
+import os
 import pandas as pd
 
 
 def convert_excel_to_txt(file, output, model, wav, speaker):
+    error = file.split('.')
+    if error[-1] != 'xlsx':
+        print('This is not a .xlsx file!\nProcess stopped.')
+        return
+        
     df = pd.read_excel(file)
     
     f = open(output, 'w', encoding='UTF-8')
@@ -16,8 +22,8 @@ def convert_excel_to_txt(file, output, model, wav, speaker):
 
 
 if __name__ == '__main__':
-    file = '향기작가_스크립트_1155개.xlsx'
-    output = 'eargada_hyanggi_total.txt'
+    file = '향기작가_스크립트_1155개.csv'
+    output = 'test.txt'
     model = 'eargada_hyanggi_1155'
     wav = '22k_wav'
     speaker = 'hyanggi'
